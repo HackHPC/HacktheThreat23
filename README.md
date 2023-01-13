@@ -1,4 +1,4 @@
-<img src="logos/Hack%20the%20Threat%20Google%20form%20Header.png"></img>
+<img src="logos/Hack%20the%20Threat%20Google%20form%20Header.png">
 
 # Hack the Threat 2023
 
