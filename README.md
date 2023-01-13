@@ -1,4 +1,4 @@
-![Hack the Threat Header](https://github.com/HackHPC/HacktheThreat23/blob/main/logos/Hack%20the%20Threat%20Google%20form%20Header.png)
+<img src="logos/Hack%20the%20Threat%20Google%20form%20Header.png"></img>
 
 # Hack the Threat 2023
 
