@@ -1,0 +1,18 @@
+
+{% if site.data.profile.sponsors %}
+<p class="title">{{ site.theme_settings.interests_title }}</p>
+  <table >
+   
+    {% for sponsor in site.data.profile.sponsors %}
+    <tr><td style="padding: 5px;"> 
+      <a href="{{ sponsor.url }}" target="_blank"><img src="{{ sponsor.logo | relativeurl }}">&nbsp;&nbsp;</a>  
+      </td>
+     
+      <td style="text-align: left; vertical-align: top; border-left: solid 2px darkgrey; "><strong><a href="{{ sponsor.url }}" target="_blank">&nbsp;&nbsp;{{ sponsor.name }}</a>
+      </strong></td>
+       
+         
+    </tr>
+    {% endfor %}
+  </table>
+{% endif %}

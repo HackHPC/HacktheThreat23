@@ -1,0 +1,14 @@
+<ul id="icons">
+  Sponsored by: <br>
+  {% if site.data.profile.sponsors %}
+  
+  <li>|</li>
+  {% for sponsor in site.data.profile.sponsors %}
+<li>
+<strong><a href="{{ sponsor.url }}" style="color: white" target="_blank">{{ sponsor.name }}</a></strong> |
+</li>
+{% endfor %}
+{% endif %}
+
+          
+        </ul>

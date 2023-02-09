@@ -1,0 +1,54 @@
+image: assets/img/Cr_HacktheThreat.png
+username: Hack the Threat 23
+description: This event offers a unique opportunity for students to develop analytical and collaboration skills while connecting with leaders in research, industry, and government.
+webpage: https://hackhpc.github.io/HacktheThreat23/
+experience: # Remove for hiding the experience section
+  - start: 2/16/2023
+    #end: 2023-02-16
+    experience : Mentor Training
+  - start: 2/23/2023
+    #end: 2023-02-23
+    experience : All Participants Orientation
+  - start: 3/2/2023
+    experience : "Hackathon Kick-Off!"
+  
+sponsors: # Used for Sponsors
+  - name: Simon Fraser University
+    url: https://www.sfu.ca/big-data.html
+    logo: assets/img/logos/sm/sfu-BigData-logo.png
+  - name: Texas Advanced Computing Center
+    url: https://www.tacc.utexas.edu/
+    logo: assets/img/logos/sm/tacc-logo-color.png
+  - name: Amazon Web Services
+    url: https://aws.amazon.com/
+    logo: assets/img/logos/sm/AWS_logo_RGB.png
+  - name: HackHPC.org
+    url: http://hackhpc.org/
+    logo: assets/img/logos/sm/HackHPC-logo.png
+skills: # Remove for hiding the skills section
+  - skill: Students Participants
+    value: 85  # Percent value
+  - skill: Mentors
+    value: 20  # Percent value
+social:
+  email: schack@hackhcp.org
+  orcid: 
+  scholar: 
+  publons: 
+  research_gate: 
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin: https://www.linkedin.com/groups/8859728/
+  github: HackHPC
+  gitlab: 
+  bitbucket: 
+  google_plus:
+  mastodon: 
+  twitter: ccloudhack
+  youtube: https://www.youtube.com/@hackhpc2069
+  facebook:
+  instagram:
+awards: # Remove for hiding the awards section
+  - "Judges Choice"
+  - "Viewer's Choice"
+  - "Impact Award"

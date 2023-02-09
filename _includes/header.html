@@ -1,0 +1,261 @@
+{% assign _url = page.url | split: "/" %}
+{% assign current = _url[-1] | split: "." %}
+<section id="header-nav">
+  <header>
+    <nav>
+      
+      <ul>
+        <li style="color: #a6192e"><strong>{{ site.data.profile.username }}</strong></li>
+        {% case current[0] %}
+        <!-- home -->
+        {% when none %}
+        <li class="current">Home</li>
+        {% if site.publications %}
+          <a href="{{ '/publications' | relative_url }}">
+            <li class="btn-nav">Publications</li>
+          </a>
+        {% endif %}
+        {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+        {% if site.resources %}
+          <a href="{{ '/resources' | relative_url }}">
+            <li class="btn-nav">Resources</li>
+          </a>
+        {% endif %}
+        {% if site.blog %}
+          <a href="{{ '/blog' | relative_url }}">
+            <li class="btn-nav">Blog</li>
+          </a>
+          <a href="{{ '/tags' | relative_url }}">
+            <li class="btn-nav">Tags</li>
+          </a>
+        {% endif %}
+        {% if site.organizers %}
+          <a href="{{ '/organizers' | relative_url }}">
+            <li class="btn-nav">Organizers</li>
+          </a>
+        {% endif %}
+        
+        <!-- publications -->
+        {% when 'publications' %}
+        <a href="{{ '/'' | relative_url }}">
+          <li class="btn-nav">Home</li>
+        </a>
+        <li class="current">Publications</li>
+        {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+        {% if site.resources %}
+          <a href="{{ '/resources' | relative_url }}">
+            <li class="btn-nav">Resources</li>
+          </a>
+        {% endif %}
+        {% if site.blog %}
+          <a href="{{ '/blog' | relative_url }}">
+            <li class="btn-nav">Blog</li>
+          </a>
+          <a href="{{ '/tags' | relative_url }}">
+            <li class="btn-nav">Tags</li>
+          </a>
+        {% endif %}
+        {% if site.organizers %}
+        <a href="{{ '/organizers' | relative_url }}">
+          <li class="btn-nav">Organizers</li>
+        </a>
+      {% endif %}
+        <!-- resources -->
+        {% when 'resources' %}
+        <a href="{{ '/'' | relative_url }}">
+          <li class="btn-nav">Home</li>
+        </a>
+        {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+        {% if site.publications %}
+          <a href="{{ '/publications' | relative_url }}">
+            <li class="btn-nav">Publications</li>
+          </a>
+        {% endif %}
+        <li class="current">Resources</li>
+        {% if site.blog %}
+          <a href="{{ '/blog' | relative_url }}">
+            <li class="btn-nav">Blog</li>
+          </a>
+          <a href="{{ '/tags' | relative_url }}">
+            <li class="btn-nav">Tags</li>
+          </a>
+        {% endif %}
+        {% if site.organizers %}
+        <a href="{{ '/organizers' | relative_url }}">
+          <li class="btn-nav">Organizers</li>
+        </a>
+      {% endif %}
+        <!-- blog -->
+        {% when 'blog' %}
+        <a href="{{ '/' | relative_url }}">
+          <li class="btn-nav">Home</li>
+        </a>
+        {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+        {% if site.publications %}
+          <a href="{{ '/publications' | relative_url }}">
+            <li class="btn-nav">Publications</li>
+          </a>
+        {% endif %}
+        {% if site.resources %}
+          <a href="{{ '/resources' | relative_url }}">
+            <li class="btn-nav">Resources</li>
+          </a>
+        {% endif %}
+        <li class="current">Blog</li>
+        <a href="{{ '/tags' | relative_url }}">
+          <li class="btn-nav">Tags</li>
+        </a>
+        {% if site.organizers %}
+        <a href="{{ '/organizers' | relative_url }}">
+          <li class="btn-nav">Organizers</li>
+        </a>
+      {% endif %}
+      
+        <!-- tags -->
+        {% when 'tags' %}
+        <a href="{{ '/' | relative_url }}">
+          <li class="btn-nav">Home</li>
+        </a>
+        {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+        {% if site.publications %}
+          <a href="{{ '/publications' | relative_url }}">
+            <li class="btn-nav">Publications</li>
+          </a>
+        {% endif %}
+        {% if site.resources %}
+          <a href="{{ '/resources' | relative_url }}">
+            <li class="btn-nav">Resources</li>
+          </a>
+        {% endif %}
+          <a href="{{ '/blog' | relative_url }}">
+            <li class="btn-nav">Blog</li>
+          </a>
+          <li class="current">Tags</li>
+          {% if site.organizers %}
+          <a href="{{ '/organizers' | relative_url }}">
+            <li class="btn-nav">Organizers</li>
+          </a>
+        {% endif %}
+        
+         <!-- schedule -->
+         {% when 'schedule' %}
+         <a href="{{ '/'' | relative_url }}">
+           <li class="btn-nav">Home</li>
+         </a>
+         <li class="current">Schedule</li>
+         {% if site.publications %}
+           <a href="{{ '/publications' | relative_url }}">
+             <li class="btn-nav">Publications</li>
+           </a>
+         {% endif %}
+         {% if site.resources %}
+           <a href="{{ '/resources' | relative_url }}">
+             <li class="btn-nav">Resources</li>
+           </a>
+         {% endif %}
+         {% if site.blog %}
+           <a href="{{ '/blog' | relative_url }}">
+             <li class="btn-nav">Blog</li>
+           </a>
+           <a href="{{ '/tags' | relative_url }}">
+             <li class="btn-nav">Tags</li>
+           </a>
+         {% endif %}
+         {% if site.organizers %}
+         <a href="{{ '/organizers' | relative_url }}">
+           <li class="btn-nav">Organizers</li>
+         </a>
+       {% endif %}
+      
+
+       <!-- organizers -->
+       {% when 'organizers' %}
+       <a href="{{ '/'' | relative_url }}">
+         <li class="btn-nav">Home</li>
+       </a>
+       {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+
+       {% if site.publications %}
+         <a href="{{ '/publications' | relative_url }}">
+           <li class="btn-nav">Publications</li>
+         </a>
+       {% endif %}
+       {% if site.resources %}
+         <a href="{{ '/resources' | relative_url }}">
+           <li class="btn-nav">Resources</li>
+         </a>
+       {% endif %}
+       {% if site.blog %}
+         <a href="{{ '/blog' | relative_url }}">
+           <li class="btn-nav">Blog</li>
+         </a>
+         <a href="{{ '/tags' | relative_url }}">
+           <li class="btn-nav">Tags</li>
+         </a>
+       {% endif %}
+       <li class="current">Organizers</li>
+       
+       
+        <!-- others -->
+        {% else %}
+        <a href="{{ '/' | relative_url }}">
+          <li class="btn-nav">Home</li>
+        </a>
+        {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+        {% if site.publications %}
+          <a href="{{ '/publications' | relative_url }}">
+            <li class="btn-nav">Publications</li>
+          </a>
+        {% endif %}
+        {% if site.resources %}
+          <a href="{{ '/resources' | relative_url }}">
+            <li class="btn-nav">Resources</li>
+          </a>
+        {% endif %}
+        {% if site.blog %}
+          <a href="{{ '/blog' | relative_url }}">
+            <li class="current btn-nav">Blog</li>
+          </a>
+          <a href="{{ '/tags' | relative_url }}">
+            <li class="btn-nav">Tags</li>
+          </a>
+        {% endif %}
+        {% if site.organizers %}
+        <a href="{{ '/organizers' | relative_url }}">
+          <li class="btn-nav">Organizers</li>
+        </a>
+      {% endif %}
+       
+        {% endcase %}
+      </ul>
+    </nav>
+  </header>
+</section>

@@ -1,0 +1,53 @@
+---
+layout: page
+---
+{% assign profile = site.data.profile %}
+{% assign urlstart = profile.image | split: '/' %}
+{% if urlstart == 'https:' %}
+  {% assign imgurl = profile.image %}
+{% else %}
+  {% assign imgurl = profile.image | relative_url %}
+{% endif %}
+
+</div><!-- This Tag means End .container -->
+<div id="portfolio">
+  <section id="about-me">
+    <div class="row">
+      <div class="img-wrap col-12 col-md-4">
+        <div class="img">
+          <img src="{{ imgurl }}" alt="user_image">
+        </div>
+      </div>
+      <div class="text-wrap col-12 col-md-8">
+        <h1 class="username">{{ profile.username }}</h1>
+        <h3>March 2<sup style="vertical-align: super; font-size: smaller;">nd</sup > - 6<sup style="vertical-align: super; font-size: smaller;">th</sup>, 2023</h3>
+        <div class="description">{{ profile.description | markdownify }}</div>
+        
+        {% include sponsors_header.html %}
+       
+        
+       
+         
+ 
+      </div>
+    </div>
+    <div class="bg"></div>
+  </section>
+  <!-- career section -->
+  <section id="career" class="row">
+    <article class="exper col-12 col-md-6">
+      {% include eventdescription.html %}
+      {% include experience.html %}
+      
+    </article>
+    <article class="skills col-12 col-md-6">
+      {% include skills.html %}
+      {% include sponsors.html %}
+      {% include awards.html %}
+      
+    </article>
+  </section>
+
+  {% include projects.html %}
+
+</div>

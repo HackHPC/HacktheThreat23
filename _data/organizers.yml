@@ -1,0 +1,49 @@
+organizers:
+  - name: Fred Popowich
+    location: Burnaby, BC (Canada)
+    aff: Simon Fraser University’s Big Data Hub
+
+  - name: Je'aime Powell
+    location: Austin, TX (USA)
+    aff: Texas Advanced Computing Center
+    bio: >
+      Je’aime Powell currently works as a Senior Systems Administrator and Technical Research Design Analyst at the Texas Advanced Computing 
+      Center(TACC) within the University of Texas at Austin. While supporting high-performance computing users, he also leads hackathons, 
+      STEM-based high school summer camps, and facilitates related training sessions. His research  in the fields of Intelligent Systems and 
+      Decision Systems Support with a focus on the development of adaptive IoT environmental sensors. He holds both a Master’s degree in Applied 
+      Mathematics with a Concentration in Remote Sensing and a Bachelor’s in Computer Science from Elizabeth City State University.
+
+    pic: assets/img/organizer-pics/jeaime-sq.png
+    socials:
+      email: jpowell@tacc.utexas.edu
+      linkedin: https://www.linkedin.com/in/jeaimehp/
+      twitter: jeaimehp
+      github: jeaimehp
+      orcid: 0000-0003-1377-5422
+  
+  - name: Kelly Nolan
+    location: Burnaby, BC (Canada)
+    aff: Simon Fraser University’s Big Data Hub
+
+  - name: Melyssa Fratkin
+    location: Austin, TX (USA)
+    aff: Texas Advanced Computing Center
+  
+  - name: Niall Gaffney
+    aff: Texas Advanced Computing Center
+    location: Austin, TX (USA)
+    bio: >
+      Niall Gaffney leads the Data Intensive Computing group at the Texas Advanced Computing Center, where he specializes in developing 
+      and utilizing data-driven research methods to help researchers make the most of their data. Stemming from his background as a 
+      data scientist for the Hubble Space Telescope project, his research interests range from machine learning and predictive analytics 
+      to data curration, reuse, and visualization.
+
+    pic: assets/img/organizer-pics/niall-gaffney-square.jpg
+    socials:
+      email: ngaffney@tacc.utexas.edu
+      linkedin: https://www.linkedin.com/in/niall-gaffney-ab5b604
+      orcid: 0000-0002-3668-9853
+  
+  - name: Sadaf Sadeghi
+    location: Burnaby, BC (Canada)
+    aff: Simon Fraser University’s Big Data Hub

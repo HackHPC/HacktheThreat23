@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="squares"
+   viewBox="0 0 482.6 366.1"
+   version="1.1"
+   sodipodi:docname="HackHPC-logo.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview189"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2129429"
+     inkscape:cx="227.13353"
+     inkscape:cy="162.82712"
+     inkscape:window-width="1312"
+     inkscape:window-height="1003"
+     inkscape:window-x="2240"
+     inkscape:window-y="776"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g124" />
+  <defs
+     id="defs118">
+    <style
+       id="style116">
+      .cls-1 {
+        fill: #fff;
+        font-family: Gadugi-Bold, Gadugi;
+        font-size: 42px;
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        fill: #21356a;
+      }
+
+      .cls-3 {
+        fill: #8c8c8c;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #3a87c4;
+        stroke-miterlimit: 10;
+        stroke-width: 24px;
+      }
+
+      .cls-5 {
+        fill: #3a87c4;
+      }
+    </style>
+  </defs>
+  <g
+     id="g130">
+    <g
+       id="g124">
+      <polygon
+         class="cls-5"
+         points="474.56,283.07 431.13,363.1 48.47,363.1 5.04,283.07 "
+         id="polygon120"
+         transform="translate(-1.79,3)" />
+      <path
+         class="cls-3"
+         d="M469.52,286.07l-40.17,74.03H50.25L10.08,286.07H469.52m10.08-6H0l46.68,86.03H432.92l46.68-86.03h0Z"
+         id="path122"
+         style="fill:#000080" />
+    </g>
+    <polygon
+       class="cls-2"
+       points="435.92 366.1 426.61 366.1 472.56 280.07 482.6 280.07 435.92 366.1"
+       id="polygon126" />
+    <polygon
+       class="cls-2"
+       points="46.68 366.1 55.98 366.1 10.03 280.07 0 280.07 46.68 366.1"
+       id="polygon128" />
+  </g>
+  <g
+     id="g182">
+    <g
+       id="g138">
+      <path
+         class="cls-2"
+         d="M115.01,119.75h49.77s8.78,.68,8.78,10.14c0,9.46-8.78,9.68-8.78,9.68h-60.59s-10.36-10.36-13.51-16.22c-3.15-5.86-9.68-14.41-9.68-14.41,0,0-19.82,19.14-23.87,33.11-4.05,13.96-3.38,32.43-3.38,32.43h52.03s5.29-.34,7.88,2.25c2.59,2.59,4.73,8.78,4.73,8.78v79.73s-2.7,11.71-15.32,11.71-15.32-10.36-15.32-10.36v-60.13s-53.6,0-53.6,0c0,0-4.28-.23-8.11-4.95-3.83-4.73-4.73-11.04-4.73-19.82s.68-43.02,16.22-69.14c15.54-26.13,35.35-42.79,48.65-42.79,16.89,0,28.83,50,28.83,50Z"
+         id="path132" />
+      <circle
+         class="cls-2"
+         cx="129.43"
+         cy="58.49"
+         r="24.89"
+         id="circle134" />
+      <path
+         class="cls-2"
+         d="M179.88,152.4h-29.95s-3.83,2.03-3.83,4.28c0,2.25,2.93,3.6,2.93,3.6h38.06s13.29-34.68,13.29-34.68c0,0,1.35-4.28-2.7-6.31-4.05-2.03-6.08,2.25-6.08,2.25l-11.71,30.86Z"
+         id="path136" />
+    </g>
+    <g
+       id="g146">
+      <path
+         class="cls-2"
+         d="M367.58,119.75h-49.77s-8.78,.68-8.78,10.14c0,9.46,8.78,9.68,8.78,9.68h60.59s10.36-10.36,13.51-16.22c3.15-5.86,9.68-14.41,9.68-14.41,0,0,19.82,19.14,23.87,33.11,4.05,13.96,3.38,32.43,3.38,32.43h-52.03s-5.29-.34-7.88,2.25-4.73,8.78-4.73,8.78v79.73s2.7,11.71,15.32,11.71c12.61,0,15.32-10.36,15.32-10.36v-60.13h53.6s4.28-.23,8.11-4.95c3.83-4.73,4.73-11.04,4.73-19.82s-.68-43.02-16.22-69.14c-15.54-26.13-35.35-42.79-48.65-42.79-16.89,0-28.83,50-28.83,50Z"
+         id="path140" />
+      <circle
+         class="cls-2"
+         cx="353.17"
+         cy="58.49"
+         r="24.89"
+         id="circle142" />
+      <path
+         class="cls-2"
+         d="M302.72,152.4h29.95s3.83,2.03,3.83,4.28-2.93,3.6-2.93,3.6h-38.06l-13.29-34.68s-1.35-4.28,2.7-6.31,6.08,2.25,6.08,2.25l11.71,30.86Z"
+         id="path144" />
+    </g>
+    <path
+       class="cls-4"
+       d="M214.06,77.69c-12.1,8.88-19.96,23.2-19.96,39.35,0,26.94,21.84,48.79,48.79,48.79s48.79-21.84,48.79-48.79c0-16.7-8.39-31.43-21.19-40.23"
+       id="path148" />
+    <g
+       id="g180">
+      <rect
+         class="cls-5"
+         x="235.4"
+         y="107.65"
+         width="15.34"
+         height="15.34"
+         id="rect150" />
+      <rect
+         class="cls-5"
+         x="244.25"
+         y="86.51"
+         width="15.34"
+         height="15.34"
+         id="rect152" />
+      <rect
+         class="cls-5"
+         x="224.83"
+         y="86.51"
+         width="15.34"
+         height="15.34"
+         id="rect154" />
+      <rect
+         class="cls-5"
+         x="251.91"
+         y="65.36"
+         width="15.34"
+         height="15.34"
+         id="rect156" />
+      <rect
+         class="cls-5"
+         x="217.16"
+         y="65.36"
+         width="15.34"
+         height="15.34"
+         id="rect158" />
+      <rect
+         class="cls-5"
+         x="262.67"
+         y="43.9"
+         width="15.34"
+         height="15.34"
+         id="rect160" />
+      <rect
+         class="cls-5"
+         x="227.74"
+         y="43.9"
+         width="15.34"
+         height="15.34"
+         id="rect162" />
+      <rect
+         class="cls-5"
+         x="205.72"
+         y="43.9"
+         width="15.34"
+         height="15.34"
+         id="rect164" />
+      <rect
+         class="cls-5"
+         x="276.77"
+         y="21.52"
+         width="15.34"
+         height="15.34"
+         id="rect166" />
+      <rect
+         class="cls-5"
+         x="256.74"
+         y="21.52"
+         width="15.34"
+         height="15.34"
+         id="rect168" />
+      <rect
+         class="cls-5"
+         x="235.4"
+         y="21.52"
+         width="15.34"
+         height="15.34"
+         id="rect170" />
+      <rect
+         class="cls-5"
+         x="192.92"
+         y="21.52"
+         width="15.34"
+         height="15.34"
+         id="rect172" />
+      <rect
+         class="cls-5"
+         x="288.46"
+         width="15.34"
+         height="15.34"
+         id="rect174" />
+      <rect
+         class="cls-5"
+         x="244.25"
+         width="15.34"
+         height="15.34"
+         id="rect176" />
+      <rect
+         class="cls-5"
+         x="203.68"
+         width="15.34"
+         height="15.34"
+         id="rect178" />
+    </g>
+  </g>
+  <text
+     class="cls-1"
+     id="text186"
+     style="font-size:52.7366px;font-family:Gadugi-Bold, Gadugi;letter-spacing:0.05em;fill:#ffffff;stroke-width:1.25563"
+     x="62.472912"
+     y="283.38248"
+     transform="scale(0.8213192,1.2175534)"><tspan
+       x="62.472912"
+       y="283.38248"
+       id="tspan184"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.7366px;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;stroke-width:1.25563">HACKHPC.ORG</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;line-height:1.25;font-family:Phosphate;-inkscape-font-specification:Phosphate"
+     x="305.68835"
+     y="335.06943"
+     id="text29810"><tspan
+       sodipodi:role="line"
+       id="tspan29808" /></text>
+</svg>

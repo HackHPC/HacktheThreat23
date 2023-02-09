@@ -1,1 +1,0 @@
-SFU and TACC Logos
