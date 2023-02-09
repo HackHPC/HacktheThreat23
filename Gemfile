@@ -7,6 +7,7 @@ gem "kramdown-parser-gfm"
 # for full calendar https://fullcalendar.io/
 gem 'fullcalendar-rails'
 gem 'momentjs-rails'
+gem 'faraday-retry'
 
 group :jekyll_plugins do
   gem "jekyll-email-protect"
