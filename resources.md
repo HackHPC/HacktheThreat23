@@ -1,5 +1,5 @@
 ---
 layout: resources
 title: Resources
-description: List of held resources
+description: Hack the Threat 23 Resources
 ---
