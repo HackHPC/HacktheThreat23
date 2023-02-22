@@ -2,6 +2,16 @@ organizers:
   - name: Fred Popowich
     location: Burnaby, BC (Canada)
     aff: Simon Fraser University’s Big Data Hub
+    bio: >
+      I’ve been a professor here at SFU in computing science since 1989, coming to the west coast after completing my PhD in Artificial 
+      Intelligence and Cognitive Science at the University of Edinburgh. Although I have worked in a range of areas involving AI, much 
+      of my research has involved applications of AI to real world problems, with my passion being in how computers can be used to process 
+      human language. I’ve also spent time outside of the university with companies and organizations doing work in this area. 
+    pic: assets/img/organizer-pics/FredP.png
+    socials:
+      email: popowich@sfu.ca
+      linkedin: https://www.linkedin.com/in/fredpopowich
+      twitter: fredpopowich
 
   - name: Je'aime Powell
     location: Austin, TX (USA)
@@ -24,10 +34,31 @@ organizers:
   - name: Kelly Nolan
     location: Burnaby, BC (Canada)
     aff: Simon Fraser University’s Big Data Hub
+    bio: >
+      I solve complicated challenges and achieve. My extensive network allows me to apply novel creative solutions through strategic 
+      partnerships; including the Gender Gap Tracker which applies the power and promise of big data and natural language processing 
+      to pressing gender equity challenges in Canada. I create solutions with cultural sensitivity and private sector business acumen. 
+      My national network of experts and business leaders has been mobilized to execute impeccable business development strategies, 
+      produce effective and measurable national and international programs, global and national stakeholder outreach, government 
+      relations and communication campaigns.
+    pic: assets/img/organizer-pics/kellynolan.jpeg
+    socials:
+      email: kelly_nolan_2@sfu.ca
+      linkedin: https://www.linkedin.com/in/kelly-nolan-81943115
 
   - name: Melyssa Fratkin
     location: Austin, TX (USA)
     aff: Texas Advanced Computing Center
+    bio: >
+      Melyssa joined TACC in July 2006. As Industrial Programs Director, she oversees TACC's corporate partnerships, international 
+      partnerships, and government relations programs. Specifically, Melyssa focuses on developing and managing collaborations between 
+      industry and academia with the Science & Technology Affiliates for Research (STAR) program. She is also developing international 
+      collaborations between TACC and its "sister" centers around the world, to promote knowledge-sharing and strengthen international 
+      research & development.
+    pic: assets/img/organizer-pics/MelyssaF.jpeg
+    socials:
+      email: mfratkin@tacc.utexas.edu
+      linkedin: https://www.linkedin.com/in/melyssa-fratkin
   
   - name: Niall Gaffney
     aff: Texas Advanced Computing Center
@@ -37,7 +68,6 @@ organizers:
       and utilizing data-driven research methods to help researchers make the most of their data. Stemming from his background as a 
       data scientist for the Hubble Space Telescope project, his research interests range from machine learning and predictive analytics 
       to data curration, reuse, and visualization.
-
     pic: assets/img/organizer-pics/niall-gaffney-square.jpg
     socials:
       email: ngaffney@tacc.utexas.edu
@@ -47,3 +77,6 @@ organizers:
   - name: Sadaf Sadeghi
     location: Burnaby, BC (Canada)
     aff: Simon Fraser University’s Big Data Hub
+    socials:
+      email: bdi_events@sfu.ca
+      linkedin: https://www.linkedin.com/in/sadeghisadaf/
