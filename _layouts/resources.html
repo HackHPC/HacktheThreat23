@@ -10,7 +10,7 @@ layout: page
   <h1 class="title">{{ page.title }}</h1>
   <br>
   <br>
-  <h1 style="color:#013366;">Sessions:</h1>
+  <h1 style="color:#013366;"><i class="fas fa-chalkboard-teacher" style="font-size: x-large;"></i> Sessions:</h1>
   <ol class="presentations-list">
     {% for _ in site.data.presentations %}
       {% assign presentation = _.presentation %}
@@ -27,9 +27,7 @@ layout: page
           {%- if presentation.icsfile %}
             [<a href="{{ presentation.icsfile | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-plus"></i> Add to Calendar</a>]
           {%- endif %}
-          {%- if presentation.zoomlink %}
-            [<a href="{{ presentation.zoomlink }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-zoom"></i> Zoom Link</a>]
-          {%- endif %}
+         
           {%- if presentation.slides %}
             {% if presentation.slides contains '://' -%}
               [<a href="{{ presentation.slides }}" class="btn btn-sm z-depth-0" role="button" title="Slides">Slides</a>]
@@ -43,13 +41,32 @@ layout: page
           {%- if presentation.hub %}
             [<a href="{{ presentation.hub | relative_url }}" class="btn btn-sm z-depth-0" role="button">All Information</a>]
           {%- endif %}
+          {%- if presentation.links %}
+    
+            {% for link in presentation.links %}
+            [<a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button">
+              {% if link.icon %}
+              <i class="{{ link.icon }}" 
+                {% if link.iconcolor %}
+                style="color: {{ link.iconcolor }}"
+                {% endif %}
+                ></i> 
+              {% endif %}
+              {{ link.name }}</a>]
+
+            {% endfor %}
+          {%- endif %}
+          
+       
+          
+       
         </div>
       </li>
     {% endfor %}
   </ol>
 
   <hr>
-  <h1 style="color:#013366;">References:</h1>
+  <h1 style="color:#013366;"><i class="fas fa-book-reader" style="font-size: x-large;"></i> References:</h1>
   {% for ref in site.data.references.references %}
     <ul class="presentations-list">
       <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
@@ -57,7 +74,7 @@ layout: page
   {% endfor %}
   
   <hr>
-  <h1 style="color:#013366;">Datasets:</h1>
+  <h1 style="color:#013366;"><i class="fas fa-database" style="font-size: x-large;"></i> Datasets:</h1>
   {% for ref in site.data.references.datasets %}
     <ul class="presentations-list">
       <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
@@ -65,7 +82,7 @@ layout: page
   {% endfor %}
 
   <hr>
-  <h1 style="color:#013366;">Dashboards:</h1>
+  <h1 style="color:#013366;"> <i class="fas fa-laptop-code" style="font-size: x-large;"></i> Dashboards: </h1>
   {% for ref in site.data.references.dashboards %}
     <ul class="presentations-list">
       <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
