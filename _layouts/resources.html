@@ -10,15 +10,26 @@ layout: page
   <h1 class="title">{{ page.title }}</h1>
   <br>
   <br>
+  <h1 style="color:#013366;">Sessions:</h1>
   <ol class="presentations-list">
     {% for _ in site.data.presentations %}
       {% assign presentation = _.presentation %}
       <li>
         <a href="#{{ presentation.title }}" target="_blank" title="Email">
           <i class="fas fa-calendar"></i></a>
-        <em class="title">{{ presentation.title }}</em> at <em class="event">{{ presentation.event }}</em> <em class="date">({{ presentation.date }})</em>
+        <em class="title">{{ presentation.title }}</em> 
+        {%- if presentation.event %}
+        at <em class="event">{{ presentation.event }}</em> 
+        {% endif %}
+        <em class="date">({{ presentation.date }})</em>
         <p class="comment">{{ presentation.comment | markdownify }}</p>
         <div class="links">
+          {%- if presentation.icsfile %}
+            [<a href="{{ presentation.icsfile | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-plus"></i> Add to Calendar</a>]
+          {%- endif %}
+          {%- if presentation.zoomlink %}
+            [<a href="{{ presentation.zoomlink }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-zoom"></i> Zoom Link</a>]
+          {%- endif %}
           {%- if presentation.slides %}
             {% if presentation.slides contains '://' -%}
               [<a href="{{ presentation.slides }}" class="btn btn-sm z-depth-0" role="button" title="Slides">Slides</a>]
@@ -36,4 +47,29 @@ layout: page
       </li>
     {% endfor %}
   </ol>
+
+  <hr>
+  <h1 style="color:#013366;">References:</h1>
+  {% for ref in site.data.references.references %}
+    <ul class="presentations-list">
+      <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
+    </ul>
+  {% endfor %}
+  
+  <hr>
+  <h1 style="color:#013366;">Datasets:</h1>
+  {% for ref in site.data.references.datasets %}
+    <ul class="presentations-list">
+      <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
+    </ul>
+  {% endfor %}
+
+  <hr>
+  <h1 style="color:#013366;">Dashboards:</h1>
+  {% for ref in site.data.references.dashboards %}
+    <ul class="presentations-list">
+      <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
+    </ul>
+  {% endfor %}
+
 </div>

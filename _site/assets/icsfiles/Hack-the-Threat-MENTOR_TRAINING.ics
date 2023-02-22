@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Melyssa Fr
+ atkin:mailto:mfratkin@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Niall Gaff
+ ney:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Big Data I
+ nitiative Scientific Director:mailto:bdi_dir@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Steven Ber
+ gner:mailto:steven_bergner@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ambassador
+  Team:mailto:bd_hub@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Julia C. F
+ ernandes - BDI Project Assistant:mailto:bdi_assistant@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Lydia Flet
+ cher:mailto:lfletcher@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ryoko.nord
+ en@ubc.ca:mailto:ryoko.norden@ubc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Azwad Fard
+ een:mailto:afardeen@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sasmita Mo
+ hapatra:mailto:smohapatra@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ricardosc@
+ gmail.com:mailto:ricardosc@gmail.com
+DESCRIPTION:When: Tuesday\, February 28\, 2023 9:00 AM-10:00 AM (UTC-08:00)
+  Pacific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/82490423019?pwd
+ =cDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09\n\nNote: The GMT offset above does not r
+ eflect daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: 
+ Hack-the-Threat (Hackathon): Mentor Training\nTime: Feb 28\, 2023 09:00 AM
+  Pacific Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/
+ 82490423019?pwd=cDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09<https://nam12.safelinks.p
+ rotection.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F82490423019%3Fp
+ wd%3DcDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09&data=05%7C01%7C%7Cb72a41a5e0f04e0ddc
+ 8b08db150aa996%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C63812690779248
+ 1460%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6I
+ k1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vCYDHyJLT7TuspYJonx7uHipxAN2Oe
+ XmER3L4srxe6U%3D&reserved=0>\n\n\nMeeting ID: 824 9042 3019\nPassword: 016
+ 736\nOne tap mobile\n+16473744685\,\,82490423019#\,\,\,\,0#\,\,016736# Can
+ ada\n+16475580588\,\,82490423019#\,\,\,\,0#\,\,016736# Canada\n\nDial by y
+ our location\n        +1 647 374 4685 Canada\n        +1 647 558 0588 Cana
+ da\n        +1 778 907 2071 Canada\n        +1 780 666 0144 Canada\n      
+   +1 204 272 7920 Canada\n        +1 438 809 7799 Canada\n        +1 587 3
+ 28 1099 Canada\nMeeting ID: 824 9042 3019\nPassword: 016736\nFind your loc
+ al number: https://sfu.zoom.us/u/kdH9ogEUWr<https://nam12.safelinks.protec
+ tion.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkdH9ogEUWr&data=05%7
+ C01%7C%7Cb72a41a5e0f04e0ddc8b08db150aa996%7C31d7e2a5bdd8414e9e97bea998ebdf
+ e1%7C0%7C0%7C638126907792481460%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMD
+ AiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=AAe
+ eQmzkQCSC00gBUYNLGpwQW9QC0N%2F8LpKx36iVDkg%3D&reserved=0>\n\nJoin by SIP\n
+ 82490423019@zoomcrc.com<mailto:82490423019@zoomcrc.com>\n\nJoin by H.323\n
+ 162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mum
+ bai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlan
+ ds)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122
+ .167.55 (Australia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.5
+ 7.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 
+ (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 824 9042 3019\nPa
+ ssword: 016736\n\nThis message is from an external sender. Learn more abou
+ t why this matters.<https://nam12.safelinks.protection.outlook.com/?url=ht
+ tps%3A%2F%2Fut.service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401
+ &data=05%7C01%7C%7Cb72a41a5e0f04e0ddc8b08db150aa996%7C31d7e2a5bdd8414e9e97
+ bea998ebdfe1%7C0%7C0%7C638126907792481460%7CUnknown%7CTWFpbGZsb3d8eyJWIjoi
+ MC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C
+ &sdata=by3g5vArRIH33XtS7VYJ4cXXD31y%2Fml5KSrykkvdNII%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000405749D12F11D901000000000000000
+ 0100000004EE73D606F7EFA419946DCF2CC3C4E8A
+SUMMARY:Hack-the-Threat: MENTOR TRAINING
+DTSTART:20230228T170000Z
+DTEND:20230228T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T192806Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/82490423019?pwd=cDJBV1B2bnFsVTIvMVE2NW0reXJ6
+ dz09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/82490423019?pwd=cDJBV
+ 1B2bnFsVTIvMVE2NW0reXJ6dz09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

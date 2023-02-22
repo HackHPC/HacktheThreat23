@@ -1,0 +1,795 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Melyssa Fr
+ atkin:mailto:mfratkin@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Niall Gaff
+ ney:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Big Data I
+ nitiative Scientific Director:mailto:bdi_dir@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Steven Ber
+ gner:mailto:steven_bergner@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ambassador
+  Team:mailto:bd_hub@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Julia C. F
+ ernandes - BDI Project Assistant:mailto:bdi_assistant@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Lydia Flet
+ cher:mailto:lfletcher@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ryoko.nord
+ en@ubc.ca:mailto:ryoko.norden@ubc.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Azwad Fard
+ een:mailto:afardeen@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sasmita Mo
+ hapatra:mailto:smohapatra@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ricardosc@
+ gmail.com:mailto:ricardosc@gmail.com
+DESCRIPTION:When: Tuesday\, February 28\, 2023 9:00 AM-10:00 AM (UTC-08:00)
+  Pacific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/82490423019?pwd
+ =cDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09\n\nNote: The GMT offset above does not r
+ eflect daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic:
+ Hack-the-Threat (Hackathon): Mentor Training\nTime: Feb 28\, 2023 09:00 AM
+  Pacific Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/
+ 82490423019?pwd=cDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09<https://nam12.safelinks.p
+ rotection.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F82490423019%3Fp
+ wd%3DcDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09&data=05%7C01%7C%7Cb72a41a5e0f04e0ddc
+ 8b08db150aa996%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C63812690779248
+ 1460%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6I
+ k1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vCYDHyJLT7TuspYJonx7uHipxAN2Oe
+ XmER3L4srxe6U%3D&reserved=0>\n\n\nMeeting ID: 824 9042 3019\nPassword: 016
+ 736\nOne tap mobile\n+16473744685\,\,82490423019#\,\,\,\,0#\,\,016736# Can
+ ada\n+16475580588\,\,82490423019#\,\,\,\,0#\,\,016736# Canada\n\nDial by y
+ our location\n        +1 647 374 4685 Canada\n        +1 647 558 0588 Cana
+ da\n        +1 778 907 2071 Canada\n        +1 780 666 0144 Canada\n
+   +1 204 272 7920 Canada\n        +1 438 809 7799 Canada\n        +1 587 3
+ 28 1099 Canada\nMeeting ID: 824 9042 3019\nPassword: 016736\nFind your loc
+ al number: https://sfu.zoom.us/u/kdH9ogEUWr<https://nam12.safelinks.protec
+ tion.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkdH9ogEUWr&data=05%7
+ C01%7C%7Cb72a41a5e0f04e0ddc8b08db150aa996%7C31d7e2a5bdd8414e9e97bea998ebdf
+ e1%7C0%7C0%7C638126907792481460%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMD
+ AiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=AAe
+ eQmzkQCSC00gBUYNLGpwQW9QC0N%2F8LpKx36iVDkg%3D&reserved=0>\n\nJoin by SIP\n
+ 82490423019@zoomcrc.com<mailto:82490423019@zoomcrc.com>\n\nJoin by H.323\n
+ 162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mum
+ bai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlan
+ ds)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122
+ .167.55 (Australia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.5
+ 7.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110
+ (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 824 9042 3019\nPa
+ ssword: 016736\n\nThis message is from an external sender. Learn more abou
+ t why this matters.<https://nam12.safelinks.protection.outlook.com/?url=ht
+ tps%3A%2F%2Fut.service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401
+ &data=05%7C01%7C%7Cb72a41a5e0f04e0ddc8b08db150aa996%7C31d7e2a5bdd8414e9e97
+ bea998ebdfe1%7C0%7C0%7C638126907792481460%7CUnknown%7CTWFpbGZsb3d8eyJWIjoi
+ MC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C
+ &sdata=by3g5vArRIH33XtS7VYJ4cXXD31y%2Fml5KSrykkvdNII%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000405749D12F11D901000000000000000
+ 0100000004EE73D606F7EFA419946DCF2CC3C4E8A
+SUMMARY:Hack-the-Threat: MENTOR TRAINING
+DTSTART:20230228T170000Z
+DTEND:20230228T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T192806Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/82490423019?pwd=cDJBV1B2bnFsVTIvMVE2NW0reXJ6
+ dz09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/82490423019?pwd=cDJBV
+ 1B2bnFsVTIvMVE2NW0reXJ6dz09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Niall Gaff
+ ney:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Melyssa Fr
+ atkin:mailto:mfratkin@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Big Data I
+ nitiative Scientific Director:mailto:bdi_dir@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Steven Ber
+ gner:mailto:steven_bergner@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ambassador
+  Team:mailto:bd_hub@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Julia C. F
+ ernandes - BDI Project Assistant:mailto:bdi_assistant@sfu.ca
+DESCRIPTION:When: Thursday\, February 23\, 2023 9:00 AM-10:00 AM (UTC-08:00
+ ) Pacific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/81280407891?pw
+ d=WWFxK0paTHdqdHM3dzRpb1hjTEJaUT09\n\nNote: The GMT offset above does not
+ reflect daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic:
+  Hack-the-Threat (Hackathon): ORIENTATION\nTime: Feb 23\, 2023 09:00 AM Pa
+ cific Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/812
+ 80407891?pwd=WWFxK0paTHdqdHM3dzRpb1hjTEJaUT09<https://nam12.safelinks.prot
+ ection.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F81280407891%3Fpwd%
+ 3DWWFxK0paTHdqdHM3dzRpb1hjTEJaUT09&data=05%7C01%7C%7Cb31405670c444324d0410
+ 8db14ffd791%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C63812686129650851
+ 3%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1h
+ aWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SJhj1FsithQ8TXXEcju3lmS2moIG9jVTx
+ sHg2ZypALI%3D&reserved=0>\n\n\nMeeting ID: 812 8040 7891\nPassword: 012070
+ \nOne tap mobile\n+16473744685\,\,81280407891#\,\,\,\,0#\,\,012070# Canada
+ \n+16475580588\,\,81280407891#\,\,\,\,0#\,\,012070# Canada\n\nDial by your
+  location\n        +1 647 374 4685 Canada\n        +1 647 558 0588 Canada\
+ n        +1 778 907 2071 Canada\n        +1 780 666 0144 Canada\n        +
+ 1 204 272 7920 Canada\n        +1 438 809 7799 Canada\n        +1 587 328
+ 1099 Canada\nMeeting ID: 812 8040 7891\nPassword: 012070\nFind your local
+ number: https://sfu.zoom.us/u/kbtE5e0d48<https://nam12.safelinks.protectio
+ n.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkbtE5e0d48&data=05%7C01
+ %7C%7Cb31405670c444324d04108db14ffd791%7C31d7e2a5bdd8414e9e97bea998ebdfe1%
+ 7C0%7C0%7C638126861296508513%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiL
+ CJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yCI6gN
+ 47vbAx8rapXnHry4ND5FoDeFkSggqi%2Fa%2By91w%3D&reserved=0>\n\nJoin by SIP\n8
+ 1280407891@zoomcrc.com<mailto:81280407891@zoomcrc.com>\n\nJoin by H.323\n1
+ 62.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumb
+ ai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherland
+ s)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.
+ 167.55 (Australia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.11
+ 0 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57
+ .160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (
+ Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 812 8040 7891\nPas
+ sword: 012070\n\nThis message is from an external sender. Learn more about
+  why this matters.<https://nam12.safelinks.protection.outlook.com/?url=htt
+ ps%3A%2F%2Fut.service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&
+ data=05%7C01%7C%7Cb31405670c444324d04108db14ffd791%7C31d7e2a5bdd8414e9e97b
+ ea998ebdfe1%7C0%7C0%7C638126861296508513%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiM
+ C4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&
+ sdata=0xgBjS35rpxPSQFrL4wodqW2y8vOEt1FrvagvHB%2B55U%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000606BD9199729D901000000000000000
+ 010000000658BE36CACAAAE40A89E2350A38D7483
+SUMMARY:Hack-the-Threat: ORIENTATION
+DTSTART:20230223T170000Z
+DTEND:20230223T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T193432Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+LOCATION:https://sfu.zoom.us/j/81280407891?pwd=WWFxK0paTHdqdHM3dzRpb1hjTEJa
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/81280407891?pwd=WWFxK
+ 0paTHdqdHM3dzRpb1hjTEJaUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Saturday\, March 4\, 2023 4:00 PM-5:00 PM (UTC-08:00) Pac
+ ific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/81656743536?pwd=dkM
+ 2Zk51NlRBc0sxNHBHejV1WDRTUT09\n\nNote: The GMT offset above does not refle
+ ct daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack
+ -the-Threat (Hackathon): Day 2 Check-Ins\nTime: This is a recurring meetin
+ g Meet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/81656743536?pwd
+ =dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09<https://nam12.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F81656743536%3Fpwd%3DdkM2Zk51Nl
+ RBc0sxNHBHejV1WDRTUT09&data=05%7C01%7C%7C1a80815db95e4fb352f008db15107991%
+ 7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126932740466447%7CUnknown%
+ 7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6
+ Mn0%3D%7C3000%7C%7C%7C&sdata=Qude18tyYtG0BnWNmt2nXn%2Fi8tnRjZPY8xbM4bgS9Zs
+ %3D&reserved=0>\n\n\nMeeting ID: 816 5674 3536\nPassword: 924723\nOne tap
+ mobile\n+16473744685\,\,81656743536#\,\,\,\,0#\,\,924723# Canada\n+1647558
+ 0588\,\,81656743536#\,\,\,\,0#\,\,924723# Canada\n\nDial by your location\
+ n        +1 647 374 4685 Canada\n        +1 647 558 0588 Canada\n        +
+ 1 778 907 2071 Canada\n        +1 780 666 0144 Canada\n        +1 204 272
+ 7920 Canada\n        +1 438 809 7799 Canada\n        +1 587 328 1099 Canad
+ a\nMeeting ID: 816 5674 3536\nPassword: 924723\nFind your local number: ht
+ tps://sfu.zoom.us/u/keH6LamKfg<https://nam12.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkeH6LamKfg&data=05%7C01%7C%7C1a80
+ 815db95e4fb352f008db15107991%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C
+ 638126932740466447%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2l
+ uMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=z9bwJ3Pvtk0ZR8YN
+ FMQd9PK3Au6DeWX37K68qHCobVk%3D&reserved=0>\n\nJoin by SIP\n81656743536@zoo
+ mcrc.com<mailto:81656743536@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (
+ US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.1
+ 15.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.14
+ 0.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Austra
+ lia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\
+ n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada T
+ oronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n
+ 149.137.24.110 (Japan Osaka)\nMeeting ID: 816 5674 3536\nPassword: 924723\
+ n\nThis message is from an external sender. Learn more about why this matt
+ ers.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.
+ service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7
+ C%7C1a80815db95e4fb352f008db15107991%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C
+ 0%7C0%7C638126932740466447%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJ
+ QIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=0Pib%2FO
+ %2BebrfPvAy66OcZjDT%2F9jHJVC6SUe%2Bmo515J80%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000405F6F28B646D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Afternoon Check-in
+DTSTART:20230305T000000Z
+DTEND:20230305T010000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T201009Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRT
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/81656743536?pwd=dkM2Z
+ k51NlRBc0sxNHBHejV1WDRTUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Friday\, March 3\, 2023 4:00 PM-5:00 PM (UTC-08:00) Pacif
+ ic Time (US & Canada).\nWhere: https://sfu.zoom.us/j/84691901656?pwd=cmpZT
+ kgzNjJsQUNxcjNpVW9IeURnZz09\n\nNote: The GMT offset above does not reflect
+  daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack-t
+ he-Threat (Hackathon): Day 1 Check-Ins\nTime: This is a recurring meeting
+ Meet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/84691901656?pwd=c
+ mpZTkgzNjJsQUNxcjNpVW9IeURnZz09<https://nam12.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F84691901656%3Fpwd%3DcmpZTkgzNjJs
+ QUNxcjNpVW9IeURnZz09&data=05%7C01%7C%7Ca22acd19614545381eec08db151047f4%7C
+ 31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126931898552074%7CUnknown%7C
+ TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn
+ 0%3D%7C3000%7C%7C%7C&sdata=%2F4fPT75s88B%2FyEyOtYu7sAgbZy7AkNWWk%2BEUmKKT%
+ 2BbM%3D&reserved=0>\n\n\nMeeting ID: 846 9190 1656\nPassword: 127580\nOne
+ tap mobile\n+15873281099\,\,84691901656#\,\,\,\,0#\,\,127580# Canada\n+164
+ 73744685\,\,84691901656#\,\,\,\,0#\,\,127580# Canada\n\nDial by your locat
+ ion\n        +1 587 328 1099 Canada\n        +1 647 374 4685 Canada\n
+    +1 647 558 0588 Canada\n        +1 778 907 2071 Canada\n        +1 780
+ 666 0144 Canada\n        +1 204 272 7920 Canada\n        +1 438 809 7799 C
+ anada\nMeeting ID: 846 9190 1656\nPassword: 127580\nFind your local number
+ : https://sfu.zoom.us/u/kcT3PsJRJy<https://nam12.safelinks.protection.outl
+ ook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkcT3PsJRJy&data=05%7C01%7C%7C
+ a22acd19614545381eec08db151047f4%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C
+ 0%7C638126931898552074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo
+ iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jY2Xi%2FjpYm
+ Yi0TrX75IpkQWu5AVniIY1QZoIeivQxSQ%3D&reserved=0>\n\nJoin by SIP\n846919016
+ 56@zoomcrc.com<mailto:84691901656@zoomcrc.com>\n\nJoin by H.323\n162.255.3
+ 7.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115
+ .114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.
+ 244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (
+ Australia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singa
+ pore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Ca
+ nada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan To
+ kyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 846 9190 1656\nPassword: 1
+ 27580\n\nThis message is from an external sender. Learn more about why thi
+ s matters.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F
+ %2Fut.service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%
+ 7C01%7C%7Ca22acd19614545381eec08db151047f4%7C31d7e2a5bdd8414e9e97bea998ebd
+ fe1%7C0%7C0%7C638126931898552074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwM
+ DAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Ec
+ AiCdyXkvTqJ93TeDgSiqawavE7Q%2BVYFcymv5Snp1E%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000D0765A04B646D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Afternoon Check-in
+DTSTART:20230304T000000Z
+DTEND:20230304T010000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T200846Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURn
+ Zz09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/84691901656?pwd=cmpZT
+ kgzNjJsQUNxcjNpVW9IeURnZz09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Big Data I
+ nitiative Scientific Director:mailto:bdi_dir@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Niall Gaff
+ ney:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Melyssa Fr
+ atkin:mailto:mfratkin@tacc.utexas.edu
+DESCRIPTION:When: Monday\, March 6\, 2023 4:00 PM-6:00 PM (UTC-08:00) Pacif
+ ic Time (US & Canada).\nWhere: https://sfu.zoom.us/j/81026599907?pwd=dXdQe
+ UJYeVVHY1B0eWRTNzlacFVHUT09\n\nNote: The GMT offset above does not reflect
+  daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack-t
+ he-Threat (Hackathon): FINAL PRESENTATIONS\nTime: Mar 6\, 2023 04:00 PM Pa
+ cific Time (US and Canada)\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/810
+ 26599907?pwd=dXdQeUJYeVVHY1B0eWRTNzlacFVHUT09<https://nam12.safelinks.prot
+ ection.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F81026599907%3Fpwd%
+ 3DdXdQeUJYeVVHY1B0eWRTNzlacFVHUT09&data=05%7C01%7C%7Cb920d52be7e548faafb20
+ 8db1510cdf3%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C63812693419448748
+ 3%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1h
+ aWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=lmZ5Zpoht0wTMilT7NqdYCBJyXu4FptSb
+ obp%2BuQTllA%3D&reserved=0>\n\n\nMeeting ID: 810 2659 9907\nPassword: 9622
+ 59\nOne tap mobile\n+17806660144\,\,81026599907#\,\,\,\,0#\,\,962259# Cana
+ da\n+12042727920\,\,81026599907#\,\,\,\,0#\,\,962259# Canada\n\nDial by yo
+ ur location\n        +1 780 666 0144 Canada\n        +1 204 272 7920 Canad
+ a\n        +1 438 809 7799 Canada\n        +1 587 328 1099 Canada\n
+  +1 647 374 4685 Canada\n        +1 647 558 0588 Canada\n        +1 778 90
+ 7 2071 Canada\nMeeting ID: 810 2659 9907\nPassword: 962259\nFind your loca
+ l number: https://sfu.zoom.us/u/kbor5XA1wA<https://nam12.safelinks.protect
+ ion.outlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2Fkbor5XA1wA&data=05%7C
+ 01%7C%7Cb920d52be7e548faafb208db1510cdf3%7C31d7e2a5bdd8414e9e97bea998ebdfe
+ 1%7C0%7C0%7C638126934194487483%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDA
+ iLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jP1r
+ E1meDfo8Vih8i6PWiKrHDnVvr%2BPAMgX7HBixJ%2B0%3D&reserved=0>\n\nJoin by SIP\
+ n81026599907@zoomcrc.com<mailto:81026599907@zoomcrc.com>\n\nJoin by H.323\
+ n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mu
+ mbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherla
+ nds)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.12
+ 2.167.55 (Australia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.
+ 110 (Singapore)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.
+ 57.160 (Canada Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110
+  (Japan Tokyo)\n149.137.24.110 (Japan Osaka)\nMeeting ID: 810 2659 9907\nP
+ assword: 962259\n\nThis message is from an external sender. Learn more abo
+ ut why this matters.<https://nam12.safelinks.protection.outlook.com/?url=h
+ ttps%3A%2F%2Fut.service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB001140
+ 1&data=05%7C01%7C%7Cb920d52be7e548faafb208db1510cdf3%7C31d7e2a5bdd8414e9e9
+ 7bea998ebdfe1%7C0%7C0%7C638126934194487483%7CUnknown%7CTWFpbGZsb3d8eyJWIjo
+ iMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7
+ C&sdata=R%2BsGHF8toDpMSo6kXKtmhf2NPXM%2B5XQlHhJSVzxgKD4%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E0080000000090320A7EB646D901000000000000000
+ 010000000B1AE1D95DD9FB1429602F725586F6E1F
+SUMMARY:Hackathon: FINAL PRESENTATIONS
+DTSTART:20230307T000000Z
+DTEND:20230307T020000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T201235Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/81026599907?pwd=dXdQeUJYeVVHY1B0eWRTNzlacFVH
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/81026599907?pwd=dXdQe
+ UJYeVVHY1B0eWRTNzlacFVHUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Saturday\, March 4\, 2023 9:00 AM-10:00 AM (UTC-08:00) Pa
+ cific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/81656743536?pwd=dk
+ M2Zk51NlRBc0sxNHBHejV1WDRTUT09\n\nNote: The GMT offset above does not refl
+ ect daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hac
+ k-the-Threat (Hackathon): Day 2 Check-Ins\nTime: This is a recurring meeti
+ ng Meet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/81656743536?pw
+ d=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09<https://nam12.safelinks.protection.outl
+ ook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F81656743536%3Fpwd%3DdkM2Zk51N
+ lRBc0sxNHBHejV1WDRTUT09&data=05%7C01%7C%7C3c1dec03d3e84e7852cc08db151063b3
+ %7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126932394565026%7CUnknown
+ %7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI
+ 6Mn0%3D%7C3000%7C%7C%7C&sdata=cUUEndOE6mrKiDXhQZq1ecXHmmON3alsyfGGVGsCai8%
+ 3D&reserved=0>\n\nMeeting ID: 816 5674 3536\nPassword: 924723\nOne tap mob
+ ile\n+16473744685\,\,81656743536#\,\,\,\,0#\,\,924723# Canada\n+1647558058
+ 8\,\,81656743536#\,\,\,\,0#\,\,924723# Canada\n\nDial by your location\n
+       +1 647 374 4685 Canada\n        +1 647 558 0588 Canada\n        +1 7
+ 78 907 2071 Canada\n        +1 780 666 0144 Canada\n        +1 204 272 792
+ 0 Canada\n        +1 438 809 7799 Canada\n        +1 587 328 1099 Canada\n
+ Meeting ID: 816 5674 3536\nPassword: 924723\nFind your local number: https
+ ://sfu.zoom.us/u/keH6LamKfg<https://nam12.safelinks.protection.outlook.com
+ /?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkeH6LamKfg&data=05%7C01%7C%7C3c1dec0
+ 3d3e84e7852cc08db151063b3%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638
+ 126932394565026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMz
+ IiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wyOLiuIGhDbsXkc2M%2
+ FQ3jExy9fEBp7ckqngLQYcJaag%3D&reserved=0>\n\nJoin by SIP\n81656743536@zoom
+ crc.com<mailto:81656743536@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (U
+ S West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.11
+ 5.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140
+ .110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Austral
+ ia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\n
+ 64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada To
+ ronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n1
+ 49.137.24.110 (Japan Osaka)\nMeeting ID: 816 5674 3536\nPassword: 924723\n
+ \nThis message is from an external sender. Learn more about why this matte
+ rs.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.s
+ ervice-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7C
+ %7C3c1dec03d3e84e7852cc08db151063b3%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0
+ %7C0%7C638126932394565026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQ
+ IjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=18BdlI04s
+ okxqJ5NhWTjoPCzdm%2F8siarhjxakzlr3Sw%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E0080000000020655016B646D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Morning Check-in
+DTSTART:20230304T170000Z
+DTEND:20230304T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T200936Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRT
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/81656743536?pwd=dkM2Z
+ k51NlRBc0sxNHBHejV1WDRTUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Sunday\, March 5\, 2023 9:00 AM-10:00 AM (UTC-08:00) Paci
+ fic Time (US & Canada).\nWhere: https://sfu.zoom.us/j/83093286322?pwd=TW5v
+ a3BjK1UwdXFCdEpyTFV3aWhYUT09\n\nNote: The GMT offset above does not reflec
+ t daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack-
+ the-Threat (Hackathon): Day 3 Check-In\nTime: This is a recurring meeting
+ Meet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/83093286322?pwd=T
+ W5va3BjK1UwdXFCdEpyTFV3aWhYUT09<https://nam12.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F83093286322%3Fpwd%3DTW5va3BjK1Uw
+ dXFCdEpyTFV3aWhYUT09&data=05%7C01%7C%7Cf115dddecc404e1324a808db1510a463%7C
+ 31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126933460111345%7CUnknown%7C
+ TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn
+ 0%3D%7C3000%7C%7C%7C&sdata=o32XrJ5ef3%2FaLKd9MNPjIrB5EolTeQkEtdL3jI84M94%3
+ D&reserved=0>\n\n\nMeeting ID: 830 9328 6322\nPassword: 560624\nOne tap mo
+ bile\n+16473744685\,\,83093286322#\,\,\,\,0#\,\,560624# Canada\n+164755805
+ 88\,\,83093286322#\,\,\,\,0#\,\,560624# Canada\n\nDial by your location\n
+        +1 647 374 4685 Canada\n        +1 647 558 0588 Canada\n        +1
+ 778 907 2071 Canada\n        +1 780 666 0144 Canada\n        +1 204 272 79
+ 20 Canada\n        +1 438 809 7799 Canada\n        +1 587 328 1099 Canada\
+ nMeeting ID: 830 9328 6322\nPassword: 560624\nFind your local number: http
+ s://sfu.zoom.us/u/kIyOiTiAN<https://nam12.safelinks.protection.outlook.com
+ /?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkIyOiTiAN&data=05%7C01%7C%7Cf115ddde
+ cc404e1324a808db1510a463%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C6381
+ 26933460111345%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzI
+ iLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1NMe1r0oM0hIXtto9xci
+ NcAzPW2826EatA%2F8c5ovIwg%3D&reserved=0>\n\nJoin by SIP\n83093286322@zoomc
+ rc.com<mailto:83093286322@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (US
+  West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115
+ .7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.
+ 110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Australi
+ a Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\n6
+ 4.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada Tor
+ onto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n14
+ 9.137.24.110 (Japan Osaka)\nMeeting ID: 830 9328 6322\nPassword: 560624\n\
+ nThis message is from an external sender. Learn more about why this matter
+ s.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.se
+ rvice-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7C%
+ 7Cf115dddecc404e1324a808db1510a463%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%
+ 7C0%7C638126933460111345%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQI
+ joiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=DyYSVKC2Cy
+ E4nl1Zz31Cc29ySG2I3X32Xwny1AJkkYg%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000A0FEE24BB646D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Morning Check-in
+DTSTART:20230305T170000Z
+DTEND:20230305T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T201122Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/83093286322?pwd=TW5va3BjK1UwdXFCdEpyTFV3aWhY
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/83093286322?pwd=TW5va
+ 3BjK1UwdXFCdEpyTFV3aWhYUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Friday\, March 3\, 2023 9:00 AM-10:00 AM (UTC-08:00) Paci
+ fic Time (US & Canada).\nWhere: https://sfu.zoom.us/j/84691901656?pwd=cmpZ
+ TkgzNjJsQUNxcjNpVW9IeURnZz09\n\nNote: The GMT offset above does not reflec
+ t daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack-
+ the-Threat (Hackathon): Day 1 Check-Ins\nTime: This is a recurring meeting
+  Meet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/84691901656?pwd=
+ cmpZTkgzNjJsQUNxcjNpVW9IeURnZz09<https://nam12.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F84691901656%3Fpwd%3DcmpZTkgzNjJ
+ sQUNxcjNpVW9IeURnZz09&data=05%7C01%7C%7Cc447e040d1a7451ff1c908db151050c7%7
+ C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126932044687890%7CUnknown%7
+ CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6M
+ n0%3D%7C3000%7C%7C%7C&sdata=qlE4BVQr8cLJTyHThVdMJ%2FKqgdE6gsB0vh%2B7Pqzdt%
+ 2FA%3D&reserved=0>\n\n\nMeeting ID: 846 9190 1656\nPassword: 127580\nOne t
+ ap mobile\n+15873281099\,\,84691901656#\,\,\,\,0#\,\,127580# Canada\n+1647
+ 3744685\,\,84691901656#\,\,\,\,0#\,\,127580# Canada\n\nDial by your locati
+ on\n        +1 587 328 1099 Canada\n        +1 647 374 4685 Canada\n
+   +1 647 558 0588 Canada\n        +1 778 907 2071 Canada\n        +1 780 6
+ 66 0144 Canada\n        +1 204 272 7920 Canada\n        +1 438 809 7799 Ca
+ nada\nMeeting ID: 846 9190 1656\nPassword: 127580\nFind your local number:
+  https://sfu.zoom.us/u/kcT3PsJRJy<https://nam12.safelinks.protection.outlo
+ ok.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkcT3PsJRJy&data=05%7C01%7C%7Cc
+ 447e040d1a7451ff1c908db151050c7%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0
+ %7C638126932044687890%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoi
+ V2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iMV0qWpkWDU3M
+ he2xQsRgy6TLmAoaNqEsJKSUWkxZU0%3D&reserved=0>\n\nJoin by SIP\n84691901656@
+ zoomcrc.com<mailto:84691901656@zoomcrc.com>\n\nJoin by H.323\n162.255.37.1
+ 1 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.11
+ 4.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244
+ .140.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Aus
+ tralia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapor
+ e)\n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canad
+ a Toronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo
+ )\n149.137.24.110 (Japan Osaka)\nMeeting ID: 846 9190 1656\nPassword: 1275
+ 80\n\nThis message is from an external sender. Learn more about why this m
+ atters.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2F
+ ut.service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C0
+ 1%7C%7Cc447e040d1a7451ff1c908db151050c7%7C31d7e2a5bdd8414e9e97bea998ebdfe1
+ %7C0%7C0%7C638126932044687890%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAi
+ LCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iZ9o1
+ 5em4cWQi%2FGore4UMsA6NSGnIEugwnZLmBe1ilo%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000806CA5E1B546D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Morning Check-in
+DTSTART:20230303T170000Z
+DTEND:20230303T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T200901Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURn
+ Zz09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/84691901656?pwd=cmpZT
+ kgzNjJsQUNxcjNpVW9IeURnZz09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Monday\, March 6\, 2023 9:00 AM-10:00 AM (UTC-08:00) Paci
+ fic Time (US & Canada).\nWhere: https://sfu.zoom.us/j/84496033817?pwd=MWNl
+ STFHN05VaGtHMi9oNUNuTkxsUT09\n\nNote: The GMT offset above does not reflec
+ t daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack-
+ the-Threat (Hackathon): last check in\nTime: This is a recurring meeting M
+ eet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/84496033817?pwd=MW
+ NlSTFHN05VaGtHMi9oNUNuTkxsUT09<https://nam12.safelinks.protection.outlook.
+ com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F84496033817%3Fpwd%3DMWNlSTFHN05Va
+ GtHMi9oNUNuTkxsUT09&data=05%7C01%7C%7Cb6952e0dd05f4e41376408db1510a8e5%7C3
+ 1d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126933533068121%7CUnknown%7CT
+ WFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0
+ %3D%7C3000%7C%7C%7C&sdata=JdfZrEKbeYf0Sw5efkq1pmYq1rkhFR8KVlCnNuwB%2Frg%3D
+ &reserved=0>\n\n\nMeeting ID: 844 9603 3817\nPassword: 798868\nOne tap mob
+ ile\n+14388097799\,\,84496033817#\,\,\,\,0#\,\,798868# Canada\n+1587328109
+ 9\,\,84496033817#\,\,\,\,0#\,\,798868# Canada\n\nDial by your location\n
+       +1 438 809 7799 Canada\n        +1 587 328 1099 Canada\n        +1 6
+ 47 374 4685 Canada\n        +1 647 558 0588 Canada\n        +1 778 907 207
+ 1 Canada\n        +1 780 666 0144 Canada\n        +1 204 272 7920 Canada\n
+ Meeting ID: 844 9603 3817\nPassword: 798868\nFind your local number: https
+ ://sfu.zoom.us/u/kFrEkOAjn<https://nam12.safelinks.protection.outlook.com/
+ ?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkFrEkOAjn&data=05%7C01%7C%7Cb6952e0dd
+ 05f4e41376408db1510a8e5%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C63812
+ 6933533224344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIi
+ LCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=CCdaPAcUbcy5JoaI4siCQ
+ 4poTdkHWB%2BGesUFne88CVY%3D&reserved=0>\n\nJoin by SIP\n84496033817@zoomcr
+ c.com<mailto:84496033817@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (US
+ West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.115.
+ 7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140.1
+ 10 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Australia
+  Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\n64
+ .211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada Toro
+ nto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n149
+ .137.24.110 (Japan Osaka)\nMeeting ID: 844 9603 3817\nPassword: 798868\n\n
+ This message is from an external sender. Learn more about why this matters
+ .<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.ser
+ vice-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7C%7
+ Cb6952e0dd05f4e41376408db1510a8e5%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7
+ C0%7C638126933533224344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIj
+ oiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=H%2BYQHw35E
+ tgalGaR2IbB0iZ0OfzP6aijUGHZM1sEYls%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E008000000001097774FB646D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Morning Check-in
+DTSTART:20230306T170000Z
+DTEND:20230306T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T201129Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/84496033817?pwd=MWNlSTFHN05VaGtHMi9oNUNuTkxs
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/84496033817?pwd=MWNlS
+ TFHN05VaGtHMi9oNUNuTkxsUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Big Data I
+ nitiative Scientific Director:mailto:bdi_dir@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Niall Gaff
+ ney:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Melyssa Fr
+ atkin:mailto:mfratkin@tacc.utexas.edu
+DESCRIPTION:When: Thursday\, March 2\, 2023 4:00 PM-6:00 PM (UTC-08:00) Pac
+ ific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/86770706851?pwd=SXF
+ Zc3hTMmFOREJyZ2VKVnFXT3pDdz09\n\nNote: The GMT offset above does not refle
+ ct daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack
+ -the-Threat (Hackathon): KICK-OFF!\nTime: Mar 2\, 2023 04:00 PM Pacific Ti
+ me (US and Canada)\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/86770706851
+ ?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pDdz09<https://nam12.safelinks.protection.o
+ utlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F86770706851%3Fpwd%3DSXFZc3
+ hTMmFOREJyZ2VKVnFXT3pDdz09&data=05%7C01%7C%7Ca01e0cca7f9e49ff3d6208db150ff
+ d64%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126930643493506%7CUnkn
+ own%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX
+ VCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FH6et12hv7tqGkXhSpZNsEVoc0EdZF5XrpO0eice9
+ Qo%3D&reserved=0>\n\n\nMeeting ID: 867 7070 6851\nPassword: 797833\nOne ta
+ p mobile\n+16475580588\,\,86770706851#\,\,\,\,0#\,\,797833# Canada\n+17789
+ 072071\,\,86770706851#\,\,\,\,0#\,\,797833# Canada\n\nDial by your locatio
+ n\n        +1 647 558 0588 Canada\n        +1 778 907 2071 Canada\n
+  +1 780 666 0144 Canada\n        +1 204 272 7920 Canada\n        +1 438 80
+ 9 7799 Canada\n        +1 587 328 1099 Canada\n        +1 647 374 4685 Can
+ ada\nMeeting ID: 867 7070 6851\nPassword: 797833\nFind your local number:
+ https://sfu.zoom.us/u/kM514KC19<https://nam12.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkM514KC19&data=05%7C01%7C%7Ca01e
+ 0cca7f9e49ff3d6208db150ffd64%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C
+ 638126930643493506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2l
+ uMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kfzjnqa8WkEgrsd2
+ uDsAlfSvq0N8QvfEYVLKgZvF7EU%3D&reserved=0>\n\nJoin by SIP\n86770706851@zoo
+ mcrc.com<mailto:86770706851@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (
+ US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.1
+ 15.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.14
+ 0.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Austra
+ lia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\
+ n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada T
+ oronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n
+ 149.137.24.110 (Japan Osaka)\nMeeting ID: 867 7070 6851\nPassword: 797833\
+ n\nThis message is from an external sender. Learn more about why this matt
+ ers.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.
+ service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7
+ C%7Ca01e0cca7f9e49ff3d6208db150ffd64%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C
+ 0%7C0%7C638126930643493506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJ
+ QIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ctO2J6Ed
+ So%2FtxSqxnwQ8CGHomkYFYHjICVERkV0pW5A%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000E0B5C70CB546D901000000000000000
+ 01000000076C886A7C632404781F0852FAC9DFD7E
+SUMMARY:Hackathon: KICK-OFF!
+DTSTART:20230303T000000Z
+DTEND:20230303T020000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T200640Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/86770706851?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pD
+ dz09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/86770706851?pwd=SXFZc
+ 3hTMmFOREJyZ2VKVnFXT3pDdz09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

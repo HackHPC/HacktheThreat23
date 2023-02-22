@@ -33,17 +33,17 @@ document.addEventListener('DOMContentLoaded', function() {
       events: [
         {
           title: 'Mentor Training',
-          start: '2023-02-16T11:00:00-06:00',
-          end: '2023-02-16T12:00:00-06:00',
+          start: '2023-02-28T11:00:00-06:00',
+          end: '2023-02-28T12:00:00-06:00',
           backgroundColor: 'orange'
-          //url: 'http://google.com/',
+          //url: 'https://sfu.zoom.us/j/82490423019?pwd=cDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09',
         },
         {
           title: 'All Participants Orientation',
           start: '2023-02-23T11:00:00-06:00',
           end: '2023-02-23T12:00:00-06:00',
           backgroundColor: 'orange'
-          //url: 'http://google.com/',
+          //url: 'https://sfu.zoom.us/j/81280407891?pwd=WWFxK0paTHdqdHM3dzRpb1hjTEJaUT09',
         },
         {
           title: 'Hackathon Kick-Off!',

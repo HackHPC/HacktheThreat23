@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+DESCRIPTION:When: Saturday\, March 4\, 2023 9:00 AM-10:00 AM (UTC-08:00) Pa
+ cific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/81656743536?pwd=dk
+ M2Zk51NlRBc0sxNHBHejV1WDRTUT09\n\nNote: The GMT offset above does not refl
+ ect daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hac
+ k-the-Threat (Hackathon): Day 2 Check-Ins\nTime: This is a recurring meeti
+ ng Meet anytime\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/81656743536?pw
+ d=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09<https://nam12.safelinks.protection.outl
+ ook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F81656743536%3Fpwd%3DdkM2Zk51N
+ lRBc0sxNHBHejV1WDRTUT09&data=05%7C01%7C%7C3c1dec03d3e84e7852cc08db151063b3
+ %7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126932394565026%7CUnknown
+ %7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI
+ 6Mn0%3D%7C3000%7C%7C%7C&sdata=cUUEndOE6mrKiDXhQZq1ecXHmmON3alsyfGGVGsCai8%
+ 3D&reserved=0>\n\nMeeting ID: 816 5674 3536\nPassword: 924723\nOne tap mob
+ ile\n+16473744685\,\,81656743536#\,\,\,\,0#\,\,924723# Canada\n+1647558058
+ 8\,\,81656743536#\,\,\,\,0#\,\,924723# Canada\n\nDial by your location\n  
+       +1 647 374 4685 Canada\n        +1 647 558 0588 Canada\n        +1 7
+ 78 907 2071 Canada\n        +1 780 666 0144 Canada\n        +1 204 272 792
+ 0 Canada\n        +1 438 809 7799 Canada\n        +1 587 328 1099 Canada\n
+ Meeting ID: 816 5674 3536\nPassword: 924723\nFind your local number: https
+ ://sfu.zoom.us/u/keH6LamKfg<https://nam12.safelinks.protection.outlook.com
+ /?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkeH6LamKfg&data=05%7C01%7C%7C3c1dec0
+ 3d3e84e7852cc08db151063b3%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638
+ 126932394565026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMz
+ IiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wyOLiuIGhDbsXkc2M%2
+ FQ3jExy9fEBp7ckqngLQYcJaag%3D&reserved=0>\n\nJoin by SIP\n81656743536@zoom
+ crc.com<mailto:81656743536@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (U
+ S West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.11
+ 5.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.140
+ .110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Austral
+ ia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\n
+ 64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada To
+ ronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n1
+ 49.137.24.110 (Japan Osaka)\nMeeting ID: 816 5674 3536\nPassword: 924723\n
+ \nThis message is from an external sender. Learn more about why this matte
+ rs.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.s
+ ervice-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7C
+ %7C3c1dec03d3e84e7852cc08db151063b3%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0
+ %7C0%7C638126932394565026%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQ
+ IjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=18BdlI04s
+ okxqJ5NhWTjoPCzdm%2F8siarhjxakzlr3Sw%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E0080000000020655016B646D901000000000000000
+ 0100000000414127B3CA70C4D95AF335B15751357
+SUMMARY:Hackathon: Morning Check-in
+DTSTART:20230304T170000Z
+DTEND:20230304T180000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T200936Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRT
+ UT09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/81656743536?pwd=dkM2Z
+ k51NlRBc0sxNHBHejV1WDRTUT09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:tzone://Microsoft/Utc
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Sadaf Sadeghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sadaf Sade
+ ghi:mailto:bdi_events@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Big Data I
+ nitiative Scientific Director:mailto:bdi_dir@sfu.ca
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="Powell, Je
+ aime H":mailto:jpowell@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Niall Gaff
+ ney:mailto:ngaffney@tacc.utexas.edu
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Melyssa Fr
+ atkin:mailto:mfratkin@tacc.utexas.edu
+DESCRIPTION:When: Thursday\, March 2\, 2023 4:00 PM-6:00 PM (UTC-08:00) Pac
+ ific Time (US & Canada).\nWhere: https://sfu.zoom.us/j/86770706851?pwd=SXF
+ Zc3hTMmFOREJyZ2VKVnFXT3pDdz09\n\nNote: The GMT offset above does not refle
+ ct daylight saving time adjustments.\n\n*~*~*~*~*~*~*~*~*~*\n\nTopic: Hack
+ -the-Threat (Hackathon): KICK-OFF!\nTime: Mar 2\, 2023 04:00 PM Pacific Ti
+ me (US and Canada)\n\nJoin Zoom Meeting\nhttps://sfu.zoom.us/j/86770706851
+ ?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pDdz09<https://nam12.safelinks.protection.o
+ utlook.com/?url=https%3A%2F%2Fsfu.zoom.us%2Fj%2F86770706851%3Fpwd%3DSXFZc3
+ hTMmFOREJyZ2VKVnFXT3pDdz09&data=05%7C01%7C%7Ca01e0cca7f9e49ff3d6208db150ff
+ d64%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C638126930643493506%7CUnkn
+ own%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJX
+ VCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FH6et12hv7tqGkXhSpZNsEVoc0EdZF5XrpO0eice9
+ Qo%3D&reserved=0>\n\n\nMeeting ID: 867 7070 6851\nPassword: 797833\nOne ta
+ p mobile\n+16475580588\,\,86770706851#\,\,\,\,0#\,\,797833# Canada\n+17789
+ 072071\,\,86770706851#\,\,\,\,0#\,\,797833# Canada\n\nDial by your locatio
+ n\n        +1 647 558 0588 Canada\n        +1 778 907 2071 Canada\n       
+  +1 780 666 0144 Canada\n        +1 204 272 7920 Canada\n        +1 438 80
+ 9 7799 Canada\n        +1 587 328 1099 Canada\n        +1 647 374 4685 Can
+ ada\nMeeting ID: 867 7070 6851\nPassword: 797833\nFind your local number: 
+ https://sfu.zoom.us/u/kM514KC19<https://nam12.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fsfu.zoom.us%2Fu%2FkM514KC19&data=05%7C01%7C%7Ca01e
+ 0cca7f9e49ff3d6208db150ffd64%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C0%7C0%7C
+ 638126930643493506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2l
+ uMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=kfzjnqa8WkEgrsd2
+ uDsAlfSvq0N8QvfEYVLKgZvF7EU%3D&reserved=0>\n\nJoin by SIP\n86770706851@zoo
+ mcrc.com<mailto:86770706851@zoomcrc.com>\n\nJoin by H.323\n162.255.37.11 (
+ US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.1
+ 15.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.14
+ 0.110 (Germany)\n103.122.166.55 (Australia Sydney)\n103.122.167.55 (Austra
+ lia Melbourne)\n209.9.211.110 (Hong Kong SAR)\n149.137.40.110 (Singapore)\
+ n64.211.144.160 (Brazil)\n149.137.68.253 (Mexico)\n69.174.57.160 (Canada T
+ oronto)\n65.39.152.160 (Canada Vancouver)\n207.226.132.110 (Japan Tokyo)\n
+ 149.137.24.110 (Japan Osaka)\nMeeting ID: 867 7070 6851\nPassword: 797833\
+ n\nThis message is from an external sender. Learn more about why this matt
+ ers.<https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fut.
+ service-now.com%2Fsp%3Fid%3Dkb_article%26number%3DKB0011401&data=05%7C01%7
+ C%7Ca01e0cca7f9e49ff3d6208db150ffd64%7C31d7e2a5bdd8414e9e97bea998ebdfe1%7C
+ 0%7C0%7C638126930643493506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJ
+ QIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ctO2J6Ed
+ So%2FtxSqxnwQ8CGHomkYFYHjICVERkV0pW5A%3D&reserved=0>\n\n
+UID:040000008200E00074C5B7101A82E00800000000E0B5C70CB546D901000000000000000
+ 01000000076C886A7C632404781F0852FAC9DFD7E
+SUMMARY:Hackathon: KICK-OFF!
+DTSTART:20230303T000000Z
+DTEND:20230303T020000Z
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230222T200640Z
+TRANSP:OPAQUE
+STATUS:TENTATIVE
+LOCATION:https://sfu.zoom.us/j/86770706851?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pD
+ dz09
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://sfu.zoom.us/j/86770706851?pwd=SXFZc
+ 3hTMmFOREJyZ2VKVnFXT3pDdz09
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

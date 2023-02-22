@@ -1,0 +1,42 @@
+##################################
+## References
+#################################
+references:
+- name: HackHPC.org 
+  url: http://hackhpc.org
+- name: HackHPC Past Hackathon Events
+  url: http://hackhpc.org/pasthacks/
+- name: GitHub Markdown Reference
+  url: https://github.github.com/gfm 
+- name: Introduction to GitHub
+  url: https://lab.github.com/githubtraining/introduction-to-github
+- name: Introduction to Version Control
+  url: https://swcarpentry.github.io/git-novice/
+- name: "Google Colab"
+  url: https://colab.research.google.com/
+
+datasets:
+- name: HackHPC Datasets
+  url: http://hackhpc.org/data
+
+
+dashboards:
+- name: R for Data Science - R for Data Science. Code in R / concepts useful any language
+  url: had.co.nz 
+- name: Tidy data for efficiency, reproducibility, and collaboration
+  url: openscapes.org 
+- name: Tidy data Paper - Original paper by Hadley Wickham (founder of R) who pioneered the concept of tidy data
+  url: https://vita.had.co.nz/papers/tidy-data.pdf
+- name: Tidy data - informal and example code heavy (in R) version
+  url: tidyverse.org 
+- name: Chart Chooser — Juice Analytics
+  url: https://www.juiceanalytics.com/chartchooser
+- name: Plotly graphing library
+  url: https://plotly.com/python/
+- name: Dash App documentation
+  url: https://dash.plotly.com/
+- name: Deploy to Heroku integration from github
+  url: https://devcenter.heroku.com/articles/github-integration
+- name: Dash guidance / command line (scroll past Enterprise information to Heroku / free section
+  url: https://dash.plotly.com/deployment
+

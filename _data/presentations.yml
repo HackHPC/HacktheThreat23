@@ -1,12 +1,17 @@
 - presentation:
-    title: A nice presentation
-    event: Fancy conference
-    date: 05/2022
-    comment: This is some comment text that can do _Markdown_
-    slides: https://www.google.com # potential link to slides
-    hub: example-hub # potential hub page to link to
-    recording: https://www.youtube.com
-- presentation:
-    title: A second presentation
-    event: Another conference
-    date: 03/2022
+    title: All Participants Orientation
+    #event: Hack the Threat 23 event overview
+    date: 02/23/2023
+    comment: >
+      A general event overview for all persons participating in the Hack the Threat 23 hackathon. 
+      <br>
+      _Topics will include:_<br>
+      &nbsp;&nbsp;&#x2022; Team Deliverables <br>
+      &nbsp;&nbsp;&#x2022; Example project timelines<br>
+      &nbsp;&nbsp;&#x2022; Available resources <br>
+
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hack-the-Threat-ORIENTATION.ics
+    zoomlink: https://sfu.zoom.us/j/81280407891?pwd=WWFxK0paTHdqdHM3dzRpb1hjTEJaUT09 
