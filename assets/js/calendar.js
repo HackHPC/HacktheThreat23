@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
           title: 'Mentor Training',
           start: '2023-02-28T11:00:00-06:00',
-          end: '2023-02-21T12:00:00-06:00',
+          end: '2023-02-28T12:00:00-06:00',
           backgroundColor: 'orange'
           //url: 'http://google.com/',
         },
