@@ -15,14 +15,18 @@ layout: page
     {% for _ in site.data.presentations %}
       {% assign presentation = _.presentation %}
       <li>
-        <a href="#{{ presentation.title }}" target="_blank" title="Email">
+        <a href="{{ site.baseurl }}/resources/#{{ presentation.title }}" target="_self">
           <i class="fas fa-calendar"></i></a>
-        <em class="title">{{ presentation.title }}</em> 
+        <em id="#{{ presentation.title }}" class="title">{{ presentation.title }}</em> 
         {%- if presentation.event %}
         at <em class="event">{{ presentation.event }}</em> 
         {% endif %}
-        <em class="date">({{ presentation.date }})</em>
-        <p class="comment">{{ presentation.comment | markdownify }}</p>
+        <em class="date">({{ presentation.date }} 
+          {%- if presentation.duration %}
+            - {{ presentation.duration }}{% endif %})</em>
+            {%- if presentation.comment %}
+          <p class="comment">{{ presentation.comment | markdownify }}</p>
+          {% endif %}
         <div class="links">
           {%- if presentation.icsfile %}
             [<a href="{{ presentation.icsfile | relative_url }}" class="btn btn-sm z-depth-0" role="button"><i class="fas fa-plus"></i> Add to Calendar</a>]

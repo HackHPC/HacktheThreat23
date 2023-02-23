@@ -6,11 +6,21 @@ experience: # Remove for hiding the experience section
   - start: 2/23/2023
     #end: 2023-02-23
     experience : All Participants Orientation
+    url: "./resources#All%20Participants%20Orientation"
   - start: 2/28/2023
     #end: 2023-02-16
     experience : Mentor Training
+    url: "./resources#Mentor%20Training"
   - start: 3/2/2023
     experience : "Hackathon Kick-Off!"
+    url: "./resources#Hackathon%20Kick-Off!"
+  - start: 3/2/2023
+    end: 3/6/2023
+    experience : "Project Work"
+    #url:
+  - start: 3/6/2023
+    experience: "Final Presentations"
+    #url:
   
 sponsors: # Used for Sponsors
   - name: Simon Fraser University

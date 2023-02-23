@@ -2,6 +2,7 @@
     title: All Participants Orientation
     #event: Hack the Threat 23 event overview
     date: 02/23/2023
+    duration: "1 hr"
     comment: >
       A general event overview for all persons participating in the Hack the Threat 23 hackathon. 
       <br>
@@ -23,4 +24,203 @@
         url: https://discord.gg/Y927CbuHSv
         icon: "fab fa-discord"
         iconcolor: "#6e85d2"
-      
+      - name: Github
+        url: https://github.com
+        icon: "fab fa-github"
+        iconcolor: "black"
+
+- presentation:
+    title: Mentor Training
+    #event: Hack the Threat 23 event overview
+    date: 02/28/2023
+    duration: "1 hr"
+    comment: >
+      Overview and training for project mentors, student mentors, and co-mentors. 
+      <br>
+      _Topics will include:_<br>
+      &nbsp;&nbsp;&#x2022; Project requirements <br>
+      &nbsp;&nbsp;&#x2022; Mentoring best practices<br>
+      &nbsp;&nbsp;&#x2022; Available resources <br>
+      &nbsp;&nbsp;&#x2022; Mini-Hack <br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hack-the-Threat-MENTOR_TRAINING.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/82490423019?pwd=cDJBV1B2bnFsVTIvMVE2NW0reXJ6dz09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+      - name: Discord Server
+        url: https://discord.gg/Y927CbuHSv
+        icon: "fab fa-discord"
+        iconcolor: "#6e85d2"
+      - name: Github
+        url: https://github.com
+        icon: "fab fa-github"
+        iconcolor: "black"
+
+- presentation:
+    title: "Hackathon Kick-Off!"
+    #event: Hack the Threat 23 event overview
+    date: 03/02/2023
+    duration: "2 hrs"
+    comment: >
+      &nbsp;&nbsp;&#x2022; Overview <br>
+      &nbsp;&nbsp;&#x2022; Code of Conduct<br>
+      &nbsp;&nbsp;&#x2022; Mentor Project Pitches <br>
+      &nbsp;&nbsp;&#x2022; Team Formation <br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-KICK-OFF.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/86770706851?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pDdz09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+      - name: Discord Server
+        url: https://discord.gg/Y927CbuHSv
+        icon: "fab fa-discord"
+        iconcolor: "#6e85d2"
+      - name: Github
+        url: https://github.com
+        icon: "fab fa-github"
+        iconcolor: "black"  
+
+- presentation:
+    title: "Friday Morning Checkin"
+    #event: Hack the Threat 23 event overview
+    date: 03/03/2023
+    duration: "1.5 hrs"
+    comment: >
+      _Team Introductions (1-slide/1-minute)_<br>
+      &nbsp;&nbsp;&#x2022; Team name <br>
+      &nbsp;&nbsp;&#x2022; Team members including Mentor and Co-Mentor<br>
+      &nbsp;&nbsp;&#x2022; Team Theme Song (Instrumental only) <br>
+      &nbsp;&nbsp;&#x2022; Team Virtual Background <br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Friday-Morning-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURnZz09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+
+- presentation:
+    title: "Friday Afternoon Checkin"
+    #event: Hack the Threat 23 event overview
+    date: 03/03/2023
+    duration: "1.5 hrs"
+    comment: >
+      _Project Goals (1-slide/1-minute)_<br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Friday-Afternoon-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURnZz09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+
+- presentation:
+    title: "Saturday Morning Checkin"
+    #event: Hack the Threat 23 event overview
+    date: 03/04/2023
+    duration: "1.5 hrs"
+    comment: >
+      _Project Status and Tasking (1-slide/1-minute)_<br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Saturday-Morning-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+
+- presentation:
+    title: "Saturday Afternoon Checkin"
+    #event: Hack the Threat 23 event overview
+    date: 03/04/2023
+    duration: "1.5 hrs"
+    comment: >
+      _Project 1-Day Progress (1-slide/1-minute)_<br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Saturday-Morning-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+
+- presentation:
+    title: "Sunday Morning Checkin"
+    #event: Hack the Threat 23 event overview
+    date: 03/05/2023
+    duration: "1 hr"
+    comment: >
+      _Project Status and Tasking (1-slide/1-minute)_<br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Sunday-Morning-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/83093286322?pwd=TW5va3BjK1UwdXFCdEpyTFV3aWhYUT09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+
+- presentation:
+    title: "Monday Morning Checkin"
+    #event: Hack the Threat 23 event overview
+    date: 03/06/2023
+    duration: "1 hr"
+    comment: >
+      &nbsp;&nbsp;&#x2022; Team Introduction Videos <br>
+      &nbsp;&nbsp;&#x2022; Post Survey Opens<br>
+      &nbsp;&nbsp;&#x2022; Viewer’s Choice Ballot Opens <br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Monday-Morning-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/84496033817?pwd=MWNlSTFHN05VaGtHMi9oNUNuTkxsUT09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
+
+- presentation:
+    title: "Final Presentations"
+    #event: Hack the Threat 23 event overview
+    date: 03/06/2023
+    duration: "2 hr"
+    comment: >
+      &nbsp;&nbsp;&#x2022; <strong>[Deliverables Due]</strong> Github Repo Link <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&#x2022; PDF of Presentation Slides<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&#x2022; Source code <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&#x2022; README.md with Project Goals and Team Members <br>
+    #slides: https://www.google.com # potential link to slides
+    #hub: example-hub # potential hub page to link to
+    #recording: https://www.youtube.com
+    icsfile: assets/icsfiles/Hackathon-Monday-Morning-Check-in.ics
+    #zoomlink: 
+    links:
+      - name: Zoom Link
+        url: https://sfu.zoom.us/j/84496033817?pwd=MWNlSTFHN05VaGtHMi9oNUNuTkxsUT09
+        icon: "fas fa-video"
+        iconcolor: "#0a5cff"
