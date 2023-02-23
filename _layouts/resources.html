@@ -5,12 +5,14 @@ layout: page
 
 <div id="presentations">
   <section class="bg">
-
+    <div class="desciption">
+      Jump To: Sessions | References | Datasets | Dashboards
+    </div>
   </section>
   <h1 class="title">{{ page.title }}</h1>
   <br>
   <br>
-  <h1 style="color:#013366;"><i class="fas fa-chalkboard-teacher" style="font-size: x-large;"></i> Sessions:</h1>
+  <h1 id="sessions" style="color:#013366;"><i class="fas fa-chalkboard-teacher" style="font-size: x-large;"></i> Sessions:</h1>
   <ol class="presentations-list">
     {% for _ in site.data.presentations %}
       {% assign presentation = _.presentation %}
@@ -69,7 +71,7 @@ layout: page
   </ol>
 
   <hr>
-  <h1 style="color:#013366;"><i class="fas fa-book-reader" style="font-size: x-large;"></i> References:</h1>
+  <h1 id="references" style="color:#013366;"><i class="fas fa-book-reader" style="font-size: x-large;"></i> References:</h1>
   {% for ref in site.data.references.references %}
     <ul class="presentations-list">
       <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
@@ -77,7 +79,7 @@ layout: page
   {% endfor %}
   
   <hr>
-  <h1 style="color:#013366;"><i class="fas fa-database" style="font-size: x-large;"></i> Datasets:</h1>
+  <h1 id="datasets" style="color:#013366;"><i class="fas fa-database" style="font-size: x-large;"></i> Datasets:</h1>
   {% for ref in site.data.references.datasets %}
     <ul class="presentations-list">
       <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
@@ -85,7 +87,7 @@ layout: page
   {% endfor %}
 
   <hr>
-  <h1 style="color:#013366;"> <i class="fas fa-laptop-code" style="font-size: x-large;"></i> Dashboards: </h1>
+  <h1 id="dashboards" style="color:#013366;"> <i class="fas fa-laptop-code" style="font-size: x-large;"></i> Dashboards: </h1>
   {% for ref in site.data.references.dashboards %}
     <ul class="presentations-list">
       <li><b>{{ ref.name }}</b> - <a href="{{ ref.url }}" target="_blank">{{ ref.url }}</a> </li>
