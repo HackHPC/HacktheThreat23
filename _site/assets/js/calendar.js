@@ -49,49 +49,57 @@ document.addEventListener('DOMContentLoaded', function() {
           title: 'Hackathon Kick-Off!',
           start: '2023-03-02T18:00:00-06:00',
           end: '2023-03-02T20:00:00-06:00',
-          backgroundColor: 'green'
+          backgroundColor: 'green',
+          url: './resources/#Hackathon%20Kick-Off!'
         },
         {
-          title: 'Morning Checkin',
+          title: 'Friday Morning Checkin',
           start: '2023-03-03T11:00:00-06:00',
           end: '2023-03-03T12:00:00-06:00',
           //backgroundColor: 'orange'
+          url: './resources/#Friday%20Morning%20Checkin'
         },
         {
-          title: 'Afternoon Checkin',
+          title: 'Friday Afternoon Checkin',
           start: '2023-03-03T18:00:00-06:00',
           end: '2023-03-03T19:00:00-06:00',
           //backgroundColor: 'orange'
+          url: './resources/#Friday%20Afternoon%20Checkin'
         },
         {
-          title: 'Morning Checkin',
+          title: 'Saturday Morning Checkin',
           start: '2023-03-04T11:00:00-06:00',
           end: '2023-03-04T12:00:00-06:00',
           //backgroundColor: 'orange'
+          url: './resources/#Saturday%20Morning%20Checkin'
         },
         {
-          title: 'Afternoon Checkin',
+          title: 'Saturday Afternoon Checkin',
           start: '2023-03-04T18:00:00-06:00',
           end: '2023-03-04T19:00:00-06:00',
           //backgroundColor: 'orange'
+          url: './resources/#Saturday%20Afternoon%20Checkin'
         },
         {
-          title: 'Morning Checkin',
+          title: 'Sunday Morning Checkin',
           start: '2023-03-05T11:00:00-06:00',
           end: '2023-03-05T12:00:00-06:00',
           //backgroundColor: 'orange'
+          url: './resources/#Sunday%20Morning%20Checkin'
         },
         {
-          title: 'Morning Checkin',
+          title: 'Monday Morning Checkin',
           start: '2023-03-06T11:00:00-06:00',
           end: '2023-03-06T12:00:00-06:00',
           //backgroundColor: 'orange'
+          url: './resources/#Monday%20Morning%20Checkin'
         },
         {
           title: 'Final Presentations',
           start: '2023-03-06T18:00:00-06:00',
           end: '2023-03-06T20:00:00-06:00',
-          backgroundColor: 'red'
+          backgroundColor: 'red',
+          url: './resources/#Final%20Presentations'
         },
       ]
     });

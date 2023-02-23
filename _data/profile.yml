@@ -17,10 +17,10 @@ experience: # Remove for hiding the experience section
   - start: 3/2/2023
     end: 3/6/2023
     experience : "Project Work"
-    #url:
+    url: './schedule'
   - start: 3/6/2023
     experience: "Final Presentations"
-    #url:
+    url: './resources/#Final%20Presentations'
   
 sponsors: # Used for Sponsors
   - name: Simon Fraser University
