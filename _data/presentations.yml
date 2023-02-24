@@ -20,6 +20,10 @@
         url: https://sfu.zoom.us/j/81280407891?pwd=WWFxK0paTHdqdHM3dzRpb1hjTEJaUT09 
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      - name: Video Recording
+        url: https://youtu.be/6uh0slht1a0
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
       - name: Discord Server
         url: https://discord.gg/Y927CbuHSv
         icon: "fab fa-discord"
