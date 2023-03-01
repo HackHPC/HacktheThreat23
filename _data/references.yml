@@ -4,6 +4,12 @@
 references:
 - name: Hack the Threat 23 All Events Calendar ICS File
   url: https://hackhpc.github.io/HacktheThreat23/assets/icsfiles/Hack-the-Threat-Hackathon-ALL_SESSIONS.ics
+- name: Simon Fraser University
+  url: https://www.sfu.ca/big-data.html
+- name: Texas Advanced Computing Center
+  url: https://www.tacc.utexas.edu
+- name: Amazon Web Services
+  url: https://aws.amazon.com
 - name: HackHPC.org 
   url: http://hackhpc.org
 - name: HackHPC Past Hackathon Events
