@@ -9,6 +9,7 @@ blog: False
 schedule: True
 organizers: True
 codeofconduct: True 
+projects: False
 
 # Language of the website
 lang: en
