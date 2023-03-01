@@ -15,6 +15,11 @@
             <li class="btn-nav">Publications</li>
           </a>
         {% endif %}
+        {% if site.codeofconduct %}
+          <a href="{{ '/codeofconduct' | relative_url }}">
+            <li class="btn-nav">Code of Conduct</li>
+          </a>
+        {% endif %}
         {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
@@ -45,6 +50,11 @@
           <li class="btn-nav">Home</li>
         </a>
         <li class="current">Publications</li>
+        {% if site.codeofconduct %}
+        <a href="{{ '/codeofconduct' | relative_url }}">
+          <li class="btn-nav">Code of Conduct</li>
+        </a>
+      {% endif %}
         {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
@@ -73,6 +83,11 @@
         <a href="{{ '/'' | relative_url }}">
           <li class="btn-nav">Home</li>
         </a>
+        {% if site.codeofconduct %}
+        <a href="{{ '/codeofconduct' | relative_url }}">
+          <li class="btn-nav">Code of Conduct</li>
+        </a>
+      {% endif %}
         {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
@@ -102,6 +117,11 @@
         <a href="{{ '/' | relative_url }}">
           <li class="btn-nav">Home</li>
         </a>
+        {% if site.codeofconduct %}
+        <a href="{{ '/codeofconduct' | relative_url }}">
+          <li class="btn-nav">Code of Conduct</li>
+        </a>
+      {% endif %}
         {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
@@ -132,6 +152,11 @@
         <a href="{{ '/' | relative_url }}">
           <li class="btn-nav">Home</li>
         </a>
+        {% if site.codeofconduct %}
+        <a href="{{ '/codeofconduct' | relative_url }}">
+          <li class="btn-nav">Code of Conduct</li>
+        </a>
+      {% endif %}
         {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
@@ -162,6 +187,11 @@
          <a href="{{ '/'' | relative_url }}">
            <li class="btn-nav">Home</li>
          </a>
+         {% if site.codeofconduct %}
+         <a href="{{ '/codeofconduct' | relative_url }}">
+           <li class="btn-nav">Code of Conduct</li>
+         </a>
+       {% endif %}
          <li class="current">Schedule</li>
          {% if site.publications %}
            <a href="{{ '/publications' | relative_url }}">
@@ -193,6 +223,11 @@
        <a href="{{ '/'' | relative_url }}">
          <li class="btn-nav">Home</li>
        </a>
+       {% if site.codeofconduct %}
+       <a href="{{ '/codeofconduct' | relative_url }}">
+         <li class="btn-nav">Code of Conduct</li>
+       </a>
+     {% endif %}
        {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
@@ -219,12 +254,54 @@
        {% endif %}
        <li class="current">Organizers</li>
        
+       <!-- codeofconduct -->
+       {% when 'codeofconduct' %}
+       <a href="{{ '/'' | relative_url }}">
+         <li class="btn-nav">Home</li>
+       </a>
+       <li class="current">Code of Conduct</li>
+       {% if site.schedule %}
+          <a href="{{ '/schedule' | relative_url }}">
+            <li class="btn-nav">Schedule</li>
+          </a>
+        {% endif %}
+
+       {% if site.publications %}
+         <a href="{{ '/publications' | relative_url }}">
+           <li class="btn-nav">Publications</li>
+         </a>
+       {% endif %}
+       {% if site.resources %}
+         <a href="{{ '/resources' | relative_url }}">
+           <li class="btn-nav">Resources</li>
+         </a>
+       {% endif %}
+       {% if site.blog %}
+         <a href="{{ '/blog' | relative_url }}">
+           <li class="btn-nav">Blog</li>
+         </a>
+         <a href="{{ '/tags' | relative_url }}">
+           <li class="btn-nav">Tags</li>
+         </a>
+       {% endif %}
+       {% if site.organizers %}
+       <a href="{{ '/organizers' | relative_url }}">
+         <li class="btn-nav">Organizers</li>
+       </a>
+     {% endif %}
        
+
+
         <!-- others -->
         {% else %}
         <a href="{{ '/' | relative_url }}">
           <li class="btn-nav">Home</li>
         </a>
+        {% if site.codeofconduct %}
+        <a href="{{ '/codeofconduct' | relative_url }}">
+          <li class="btn-nav">Code of Conduct</li>
+        </a>
+      {% endif %}
         {% if site.schedule %}
           <a href="{{ '/schedule' | relative_url }}">
             <li class="btn-nav">Schedule</li>
