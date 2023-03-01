@@ -2,6 +2,8 @@
 ## References
 #################################
 references:
+- name: Hack the Threat 23 All Events Calendar ICS File
+  url: https://hackhpc.github.io/HacktheThreat23/assets/icsfiles/Hack-the-Threat-Hackathon-ALL_SESSIONS.ics
 - name: HackHPC.org 
   url: http://hackhpc.org
 - name: HackHPC Past Hackathon Events
