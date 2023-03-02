@@ -81,12 +81,14 @@
       &nbsp;&nbsp;&#x2022; Code of Conduct<br>
       &nbsp;&nbsp;&#x2022; Mentor Project Pitches <br>
       &nbsp;&nbsp;&#x2022; Team Formation <br>
-    #slides: https://www.google.com # potential link to slides
+    slides: assets/pdf/Kick-off-Session.pdf # potential link to slides
     #hub: example-hub # potential hub page to link to
     #recording: https://www.youtube.com
     icsfile: assets/icsfiles/Hackathon-KICK-OFF.ics
     #zoomlink: 
     links:
+      - name: Mentor Pitch Slides
+        url: https://hackhpc.github.io/HacktheThreat23/assets/pdf/Mentor-Pitches.pdf
       - name: Zoom Link
         url: https://sfu.zoom.us/j/86770706851?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pDdz09
         icon: "fas fa-video"
@@ -107,6 +109,7 @@
         url: https://youtu.be/ybfsYBhbZDY
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
+      
 
 - presentation:
     title: "Friday Morning Checkin"
