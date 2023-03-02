@@ -99,6 +99,14 @@
         url: https://github.com
         icon: "fab fa-github"
         iconcolor: "black"  
+      - name: Code of Conduct
+        url: https://youtu.be/iTbXbjL1dl0
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+      - name: Awards and Judging Criteria
+        url: https://youtu.be/ybfsYBhbZDY
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
 
 - presentation:
     title: "Friday Morning Checkin"
