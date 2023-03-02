@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
       initialView: 'listYear', //'listMonth', //'dayGridWeek',
       timeZone: initialTimeZone,
       eventTimeFormat: { hour: 'numeric', minute: '2-digit' },
-      initialDate: '2023-02-16',
+      initialDate: '2023-03-01',
       headerToolbar: {
         left: 'prev,next today',
         center: 'title' ,
