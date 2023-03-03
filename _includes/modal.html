@@ -5,20 +5,22 @@
       <p>&times;</p>
     </div>
     <div class="header">
-      <p class="date">{{ project.date }}</p>
-      <p class="title">{{ project.title }}</p>
+      
+      <p class="title">{{ project.teamname }}</p>
+      {% if project.summary %}
       <p class="summary">{{ project.summary }}</p>
+      {% endif %}
     </div>
     <div class="content">
       {% if project.image %}
-        <img src="{{ project.image.path | prepend: '/assets/project/' | relative_url }}" alt="{{ project.image.alt }}">
+        <img src="{{ project.image | relative_url }}" alt="{{ project.teamname }}">
       {% endif%}
       <div class="description">{{ project.description }}</div>
       {% for content in project.contents %}
       <div class="sub-content">
         <div class="title">{{ content.title }}</div>
         {% if content.image %}
-          <img src="{{ content.image.path | prepend: '/assets/project/' | relative_url }}" alt="{{ content.image.alt }}">
+          <img src="{{ content.image | relative_url }}" alt="{{ content.name }}">
         {% endif %}
         <div class="description">{{ content.description }}</div>
       </div>

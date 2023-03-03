@@ -9,7 +9,7 @@
         <div class="card">
           {% if project.image %}
           <div class="img-wrap">
-            <img src="{{ project.image.path | prepend: '/assets/project/' | relative_url }}" alt="{{ project.image.alt }}">
+            <img src="{{ project.image | relative_url }}" alt="{{ project.teamname }}">
           </div>
           {% endif %}
           <div class="text-wrap {% if project.image %}{% endif %}">
@@ -31,7 +31,10 @@
             {% if project.url %}
             {% assign url = project.url %}
             <a href="{{ url }}"><i class="far fa-eye"></i></a>
+            {% else %}
+            <a href="{{ site.baseurl }}/teams/#{{ project.name }}"><i class="far fa-eye"></i></a>
             {% endif %}
+
             {% if project.modal %}
             <a title="{{ id }}" onClick="open_modal(this.title)" class="modal-btn"><i class="fas fa-plus"></i></a>
             {% endif %}

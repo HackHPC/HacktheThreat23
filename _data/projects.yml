@@ -32,47 +32,151 @@
 #             <li>Tags</li> 
 
 - project:
-    teamname: COMING SOON!
+    teamname: 2 Hack 2 Furious
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  # Full URL
-    image: # \path: assets/project/
-    date: 03/2021 &ndash; Project Teams
+    image: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png # assets/project/
+    #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
-    summary: 
-    description:
-    emojicode: "&#128667;"
+    #summary: this teams stuff
+    #description:
+    emojicode: 🤠
     members:
-        - name: Mentor1
+        - name: Ricardo Carvalho
           role: Mentor
-          email: mentor@email.me
-          affiliation: Menotor University
-          url: mentoruniversity.edu
-        - name: Mentor2
+          email: ricardosc@gmail.com
+          affiliation: Simon Fraser University
+          url: https://www.sfu.ca/big-data.html
+        - name: Sasmita	Mohapatra
           role: Co-Mentor
-          email: mentor@email.me
-          affiliation: Menotor University
-          url: mentoruniversity.edu
-        - name: Student X
+          email: smohapatra@tacc.utexas.edu
+          affiliation: Texas Advanced Computing Center
+          url: https://www.tacc.utexas.edu/
+        - name: Michelle
           role: Member
-          email: mentor@email.me
-          affiliation: Menotor University
-          url: mentoruniversity.edu
+        - name: Ziggy
+          role: Member
+        - name: Francesco
+          role: Member
+        - name: Kai
+          role: Member  
+          #email: mentor@email.me
+          #affiliation: Menotor University
+          #url: mentoruniversity.edu
     links:
-        - name: Intro
-          url: http://www.google.com
-          icon: "fas fa-video"
-          iconcolor: "#0a5cff"  
-        - name: Intro
-          url: http://www.google.com
-          icon: "fas fa-video"
-          iconcolor: "#0a5cff"
+        - name: Team Introduction
+          url: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
+        - name: Theme Song - Side of Smooth - Morning Walk
+          url: https://www.youtube.com/watch?v=XcrLSSlNZGs
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"  
+        #- name: Intro
+        #  url: http://www.google.com
+        #  icon: "fas fa-video"
+        #  iconcolor: "#0a5cff"
     images:
-        - name: introductions
-          imagelink: assets/img/lightbulb.png
-          url: ./assets/pdf/Kick-off-Session.pdf
-        - name: introductions
-          imagelink: assets/img/koreaSunset.jpg
+        - name: Team Introduction
+          imagelink: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png
+          url: ./assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.pdf
+
+- project:  
+    teamname: Anti-Hurricane Hurricane Club
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  # Full URL
+    image: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png # assets/project/
+    #date: 03/2021 &ndash; Project Teams
+    #title: COMING SOON!
+    #summary: this teams stuff
+    #description:
+    emojicode: 😶‍🌫️
+    members:
+        - name: Dawn Hunter
+          role: Co-Mentor
+          email: dhunter@tacc.utexas.edu
+          affiliation: Texas Advanced Computing Center
+          url: https://www.tacc.utexas.edu/
+        - name: Lydia Fletcher
+          role: Co-Mentor
+          email: lfletcher@tacc.utexas.edu
+          affiliation: Texas Advanced Computing Center
+          url: https://www.tacc.utexas.edu/
+        - name: Ricky
+          role: Member
+        - name: Tanmay
+          role: Member
+        - name: Waiel
+          role: Member
+        - name: Ashwin
+          role: Member  
+          #email: mentor@email.me
+          #affiliation: Menotor University
+          #url: mentoruniversity.edu
+    links:
+        - name: Team Introduction
+          url: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"  
+        - name: Theme Song - Kirin J Callinan - Big Enough
+          url: https://www.youtube.com/clip/Ugkx-WzUlsCdmONCgUAScbmZgRGB0VfLZfOh
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
+    images:
+        - name: Team Introduction
+          imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
+          url: ./assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.pdf
+       
+- project:  
+    teamname: Techniators
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url:  # Full URL
+    image: assets/project/techniators/Techniators-TeamIntroduction.png # assets/project/
+    #date: 03/2021 &ndash; Project Teams
+    #title: COMING SOON!
+    #summary: this teams stuff
+    #description:
+    emojicode: 💻
+    members:
+        #- name: Dawn Hunter
+        #  role: Co-Mentor
+        #  email: dhunter@tacc.utexas.edu
+        #  affiliation: Texas Advanced Computing Center
+        #  url: https://www.tacc.utexas.edu/
+        #- name: Lydia Fletcher
+        #  role: Co-Mentor
+        #  email: lfletcher@tacc.utexas.edu
+        #  affiliation: Texas Advanced Computing Center
+        #  url: https://www.tacc.utexas.edu/
+        - name: Caesar
+          role: Member
+        - name: Dhruvi
+          role: Member
+        - name: Kelvin
+          role: Member
+        - name: Lisa
+          role: Member
+        - name: Sarah
+          role: Member  
+          #email: mentor@email.me
+          #affiliation: Menotor University
+          #url: mentoruniversity.edu
+    links:
+        - name: Team Introduction
+          url: assets/project/techniators/Techniators-TeamIntroduction.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"  
+        - name: Theme Song - Late night Radio
+          url: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Late%20Night%20Radio.mp3
+          icon: "fas fa-music"
+          iconcolor: "black"
+    images:
+        - name: Team Introduction
+          imagelink: assets/project/techniators/Techniators-TeamIntroduction.png
+          url: ./assets/project/techniators/Techniators-TeamIntroduction.pdf
 
           
         
