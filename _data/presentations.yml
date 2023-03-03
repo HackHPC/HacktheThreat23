@@ -86,11 +86,7 @@
     #recording: https://www.youtube.com
     icsfile: assets/icsfiles/Hackathon-KICK-OFF.ics
     #zoomlink: 
-    links:
-      - name: Mentor Pitch Slides
-        url: https://hackhpc.github.io/HacktheThreat23/assets/pdf/Mentor-Pitches.pdf
-        icon: "far fa-file-pdf"
-        iconcolor: "black"
+    links:   
       - name: Zoom Link
         url: https://sfu.zoom.us/j/86770706851?pwd=SXFZc3hTMmFOREJyZ2VKVnFXT3pDdz09
         icon: "fas fa-video"
@@ -111,6 +107,10 @@
         url: https://youtu.be/ybfsYBhbZDY
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
+      - name: Mentor Pitch Slides
+        url: Mentor-Pitches.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
       
 
 - presentation:
@@ -135,6 +135,11 @@
         url: https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURnZz09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      - name: Team Introduction Slides
+        url: https://docs.google.com/presentation/d/1SAq9BtTcuiobIz1uZ2UyOzHOOjd9BQAVRPpHS9-R6Bs/edit?usp=sharing
+        icon: "fab fa-google-drive"
+        iconcolor: "black"
+
 
 - presentation:
     title: "Friday Afternoon Checkin"

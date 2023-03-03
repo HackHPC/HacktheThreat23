@@ -34,9 +34,9 @@ layout: page
          
           {%- if presentation.slides %}
             {% if presentation.slides contains '://' -%}
-              [<a href="{{ presentation.slides }}" class="btn btn-sm z-depth-0" role="button" title="Slides"> Slides</a>]
+              [<a href="{{ presentation.slides }}" class="btn btn-sm z-depth-0" role="button" title="Slides"> Session Slides</a>]
             {%- else -%}
-              [<a href="{{ presentation.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Slides"><i class="far fa-file-pdf" style="color: black;"></i> Slides</a>]
+              [<a href="{{ presentation.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Slides"><i class="far fa-file-pdf" style="color: black;"></i> Session Slides</a>]
             {%- endif %}
           {%- endif %}
           {%- if presentation.recording %}
@@ -48,15 +48,20 @@ layout: page
           {%- if presentation.links %}
     
             {% for link in presentation.links %}
-            [<a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button">
-              {% if link.icon %}
-              <i class="{{ link.icon }}" 
-                {% if link.iconcolor %}
-                style="color: {{ link.iconcolor }}"
-                {% endif %}
-                ></i> 
-              {% endif %}
-              {{ link.name }}</a>]
+                {% if link.url contains '://' -%}
+                  [<a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button"> 
+                {%- else -%}
+                  [<a href="{{ link.url | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"> 
+                {%- endif %}
+
+                  {% if link.icon %}
+                  <i class="{{ link.icon }}" 
+                    {% if link.iconcolor %}
+                    style="color: {{ link.iconcolor }}"
+                    {% endif %}
+                    ></i> 
+                  {% endif %}
+                  {{ link.name }}</a>]
 
             {% endfor %}
           {%- endif %}
