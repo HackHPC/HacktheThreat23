@@ -48,7 +48,7 @@ layout: page
         
         {% if team.links %}
             <h3>Links:</h3>
-            <ul class="presentations-list">
+            <ul class="presentations-list" style="list-style-type: none; margin-left: 30px;">
             {% for link in team.links %} 
               <li>
                 {% if link.url contains '://' -%}
