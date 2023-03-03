@@ -9,10 +9,90 @@ layout: page
   </section>
   <h1 class="title">{{ page.title }}</h1>
   Jump To:
-  {% for team in site.data.projects.project %}
+  {% for _ in site.data.projects %}
+      {% assign team = _.project %}
     <a href="#{{ team.teamname }}" target="_self"> {{ team.teamname }}</a> | 
   {% endfor %}
   <br>
+  <table>
+  {% for _ in site.data.projects %}
+      {% assign team = _.project %}
+      <tr style="background-color: lightgrey;">
+        <td style="width: 40%">
+          <h1 id="{{ team.teamname }}" style="text-align: center;">{{ team.emojicode }}  </h1>
+        </td>
+        <td>
+         <h1> {{ team.teamname }} </h1>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">
+          <h3>Members:</h3>
+          {% for member in team.members %}
+          <ul class="presentations-list">
+            <li>
+              {% if member.role contains "Mentor" %} 
+                <strong> [{{ member.role }}]</strong> <a href="mailto:{{ member.email | encode_email }}" target="_blank" title="Email">
+                  {{ member.name }}</a> <br>
+                <em><a href="{{member.url}}" target=_blank> {{ member.affiliation }} </a></em>
+                <br>
+              {% endif %}
+              {% if member.role == "Member" %} 
+                {{ member.name }} <br>
+                <em><a href="{{member.url}}" target=_blank> {{ member.affiliation }} </a></em>
+              
+              {% endif %}
+            </li>
+          </ul>
+          {% endfor %}
+        
+        {% if team.links %}
+            <h3>Links:</h3>
+            <ul class="presentations-list">
+            {% for link in team.links %} 
+              <li>
+                {% if link.url contains '://' -%}
+                  <a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button"> 
+                {%- else -%}
+                  <a href="{{ link.url | relative_url }}" class="btn btn-sm z-depth-0" role="button"> 
+                {%- endif %}
+                {% if link.icon %}
+                  <i class="{{ link.icon }}" 
+                    {% if link.iconcolor %}
+                    style="color: {{ link.iconcolor }}"
+                    {% endif %}
+                    ></i> 
+                  {% endif %}
+                  {{ link.name }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+
+        {% endif %}
+        
+        </td>
+        <td style="padding: 20px;">
+          {% if team.images %}
+            {% for image in team.images %}
+            {% if image.url %}
+              {% if image.url contains '://' -%}
+                <a href="{{ image.url }}"><img src="{{ image.imagelink | relative_url }}" width="250" alt="{{ image.name }}"></a> 
+              {%- else -%}
+                <a href="{{ image.url | relative_url }}"><img src="{{ image.imagelink | relative_url }}" width="250" alt="{{ image.name }}"></a> 
+              {%- endif %}
+            {% else %}
+            <img src="{{ image.imagelink | relative_url }}" height="250" alt="{{ image.name }}">
+            {% endif %}
+            <br>
+
+            {% endfor %}
+          {% endif %}
+
+
+        </td>
+      </tr>
+  {% endfor %}
+</table>
   <br>
   {% include projects.html %}
 

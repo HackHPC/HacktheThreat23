@@ -40,17 +40,39 @@
     date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     summary: 
-    description:  
+    description:
+    emojicode: "&#128667;"
     members:
         - name: Mentor1
           role: Mentor
           email: mentor@email.me
           affiliation: Menotor University
           url: mentoruniversity.edu
+        - name: Mentor2
+          role: Co-Mentor
+          email: mentor@email.me
+          affiliation: Menotor University
+          url: mentoruniversity.edu
+        - name: Student X
+          role: Member
+          email: mentor@email.me
+          affiliation: Menotor University
+          url: mentoruniversity.edu
     links:
         - name: Intro
-          external: True # If the link is internal or external
-          url: 
+          url: http://www.google.com
+          icon: "fas fa-video"
+          iconcolor: "#0a5cff"  
+        - name: Intro
+          url: http://www.google.com
           icon: "fas fa-video"
           iconcolor: "#0a5cff"
+    images:
+        - name: introductions
+          imagelink: assets/img/lightbulb.png
+          url: ./assets/pdf/Kick-off-Session.pdf
+        - name: introductions
+          imagelink: assets/img/koreaSunset.jpg
+
+          
         
