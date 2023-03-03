@@ -8,12 +8,12 @@ layout: page
    
   </section>
   <h1 class="title">{{ page.title }}</h1>
-  Jump To:
+  Jump To: |
   {% for _ in site.data.projects %}
       {% assign team = _.project %}
-    <a href="#{{ team.teamname }}" target="_self"> {{ team.teamname }}</a> | 
+    <strong><a href="#{{ team.teamname }}" target="_self"> {{ team.teamname }}</a></strong> | 
   {% endfor %}
-  <br>
+  <br><br>
   <table>
   {% for _ in site.data.projects %}
       {% assign team = _.project %}
