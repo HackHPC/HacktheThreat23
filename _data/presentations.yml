@@ -139,9 +139,13 @@
         url: https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURnZz09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      #- name: Team Introduction Slides
+      #  url: https://docs.google.com/presentation/d/1SAq9BtTcuiobIz1uZ2UyOzHOOjd9BQAVRPpHS9-R6Bs/edit?usp=sharing
+      #  icon: "fab fa-google-drive"
+      #  iconcolor: "black"
       - name: Team Introduction Slides
-        url: https://docs.google.com/presentation/d/1SAq9BtTcuiobIz1uZ2UyOzHOOjd9BQAVRPpHS9-R6Bs/edit?usp=sharing
-        icon: "fab fa-google-drive"
+        url: Team-Introduction-Slides.pdf
+        icon: "far fa-file-pdf"
         iconcolor: "black"
 
 
