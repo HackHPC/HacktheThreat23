@@ -166,6 +166,10 @@
         url: https://sfu.zoom.us/j/84691901656?pwd=cmpZTkgzNjJsQUNxcjNpVW9IeURnZz09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      - name: Team Goal Slides
+        url: https://docs.google.com/presentation/d/1ZlCor78IAPXfrSVSig7XcMP81-765Z1cLCakiezLnZI/edit?usp=sharing
+        icon: "fab fa-google-drive"
+        iconcolor: "black"
 
 - presentation:
     title: "Saturday Morning Checkin"
@@ -184,6 +188,7 @@
         url: https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      
 
 - presentation:
     title: "Saturday Afternoon Checkin"
