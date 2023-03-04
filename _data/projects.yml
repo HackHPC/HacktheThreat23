@@ -104,9 +104,9 @@
         - name: Team Goals
           imagelink: assets/project/2hack-2furious/2hack2furious-TeamGoals.png
           url: ./assets/project/2hack-2furious/2hack2furious-TeamGoals.pdf
-          - name: Saturday Morning Sitrep
-            imagelink: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.png
-            url: ./assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
+        - name: Saturday Morning Sitrep
+          imagelink: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.png
+          url: ./assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
 
 - project:  
     teamname: Anti-Hurricane Hurricane Club
