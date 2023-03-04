@@ -11,7 +11,7 @@ layout: page
   Jump To: |
   {% for _ in site.data.projects %}
       {% assign team = _.project %}
-    <strong><a href="#{{ team.teamname }}" target="_self"> {{ team.teamname }}</a></strong> | 
+    <strong><a href="#{{ team.teamname }}" target="_self"> {{ team.emojicode }} {{ team.teamname }}</a></strong> | 
   {% endfor %}
   <br><br>
   <table>
