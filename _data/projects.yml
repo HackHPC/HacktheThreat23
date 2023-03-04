@@ -92,6 +92,11 @@
           url: https://www.youtube.com/watch?v=1nis-wyVkC0&t=121s
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
+        - name: Saturday Morning Sitrep
+          url: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
+
     images:
         - name: Team Introduction
           imagelink: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png
@@ -99,6 +104,9 @@
         - name: Team Goals
           imagelink: assets/project/2hack-2furious/2hack2furious-TeamGoals.png
           url: ./assets/project/2hack-2furious/2hack2furious-TeamGoals.pdf
+          - name: Saturday Morning Sitrep
+            imagelink: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.png
+            url: ./assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
 
 - project:  
     teamname: Anti-Hurricane Hurricane Club
@@ -165,6 +173,10 @@
           url: https://www.youtube.com/watch?v=1nis-wyVkC0&t=796s
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
+        - name: Saturday Morning Sitrep
+          url: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
     images:
         - name: Team Introduction
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
@@ -172,6 +184,9 @@
         - name: Team Goals
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-TeamGoals.png
           url: ./assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-TeamGoals.pdf
+        - name: Saturday Morning Sitrep
+          imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.png
+          url: ./assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.pdf
        
 - project:  
     teamname: Techniators
@@ -239,6 +254,10 @@
           url: https://www.youtube.com/watch?v=1nis-wyVkC0&t=436s
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
+        - name: Saturday Morning Sitrep
+          url: assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
     images:
         - name: Team Introduction
           imagelink: assets/project/techniators/Techniators-TeamIntroduction.png
@@ -246,6 +265,8 @@
         - name: Team Goals
           imagelink: assets/project/techniators/techniators-TeamGoals.png
           url: ./assets/project/techniators/techniators-TeamGoals.pdf
-
+        - name: Saturday Morning Sitrep
+          imagelink: assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.png
+          url: ./assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.pdf
           
         
