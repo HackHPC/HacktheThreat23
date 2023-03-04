@@ -165,6 +165,9 @@
     carousel:
       - posttitle: Team Introductions
         posttag: Session
+        image: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
+      - posttitle: Teams
+        posttag: Session
         image: assets/img/event-images/team-introductions-500px.png
 
 - presentation:
@@ -198,6 +201,10 @@
         url: Team_Goals.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
+    carousel:
+      - posttitle: Team Goals
+        posttag: Session
+        image: assets/project/techniators/techniators-TeamGoals.png
 
 - presentation:
     title: "Saturday Morning Checkin"
