@@ -34,6 +34,13 @@
         url: https://github.com
         icon: "fab fa-github"
         iconcolor: "black"
+    carousel:
+      - posttitle: Orientation
+        posttag: Session
+        image: assets/img/event-images/orientation-500px.png
+      - posttitle: "Orientation: Mini-Hack"
+        posttag: Session
+        image: assets/img/event-images/orientation-minihack-500px.png
 
 - presentation:
     title: Mentor Training
@@ -115,6 +122,10 @@
         url: Mentor-Pitches.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
+    carousel:
+      - posttitle: Kick-Off!
+        posttag: Session
+        image: assets/img/event-images/hackthethreat23-kickoffpicure-500px.png
       
 - presentation:
     title: "Friday Morning Checkin"
@@ -151,6 +162,10 @@
         url: Team-Introduction-Slides.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
+    carousel:
+      - posttitle: Team Introductions
+        posttag: Session
+        image: assets/img/event-images/team-introductions-500px.png
 
 - presentation:
     title: "Friday Afternoon Checkin"
