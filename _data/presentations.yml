@@ -238,7 +238,7 @@
     duration: "1.5 hrs"
     comment: >
       _Project 1-Day Progress (1-slide/1-minute)_<br>
-    #slides: https://www.google.com # potential link to slides
+    #slides: https://www.google.com # potential link to slides.
     #hub: example-hub # potential hub page to link to
     #recording: https://www.youtube.com
     icsfile: assets/icsfiles/Hackathon-Saturday-Morning-Check-in.ics
