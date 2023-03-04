@@ -38,7 +38,7 @@
       - posttitle: Orientation
         posttag: Session
         image: assets/img/event-images/orientation-500px.png
-      - posttitle: "Orientation: Mini-Hack"
+      - posttitle: "Mini-Hack"
         posttag: Session
         image: assets/img/event-images/orientation-minihack-500px.png
 
