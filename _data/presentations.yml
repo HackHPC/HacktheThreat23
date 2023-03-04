@@ -123,9 +123,9 @@
         icon: "far fa-file-pdf"
         iconcolor: "black"
     carousel:
-      - posttitle: Kick-Off!
+      - posttitle: Mentor Pitches
         posttag: Session
-        image: assets/img/event-images/hackthethreat23-kickoffpicure-500px.png
+        image: assets/img/event-images/mentorpitches-500px.png
       
 - presentation:
     title: "Friday Morning Checkin"
