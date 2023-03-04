@@ -17,12 +17,12 @@ layout: page
   <table>
   {% for _ in site.data.projects %}
       {% assign team = _.project %}
-      <tr style="background-color: lightgrey;">
-        <td style="width: 40%">
-          <h1 id="{{ team.teamname }}" style="text-align: center;">{{ team.emojicode }}  </h1>
-        </td>
-        <td>
-         <h1> {{ team.teamname }} </h1>
+      <tr >
+        <td colspan="2" style="width: 40%">
+          <hr>
+          <h1 id="{{ team.teamname }}" style="text-align: left; color: #013366;">{{ team.emojicode }} {{ team.teamname }} </h1>
+          <hr>
+        
         </td>
       </tr>
       <tr>
@@ -45,6 +45,20 @@ layout: page
             </li>
           </ul>
           {% endfor %}
+        {% if team.summary %}
+          <h5 >Goal(s):</h5>
+          <p style="margin-left: 20px;"> {{ team.summary }} </p>
+        {% endif %}
+        {% if team.awards %}
+          <h3>Awards:</h3>  
+          <ul class="presentations-list" style="list-style-type: none; margin-left: 30px;"></ul>
+          {% for award in team.awards %} 
+          <li style="list-style-type: none; margin-left: 30px;"><strong style="color: goldenrod;">🏆 {{ award.name }}</strong></li>
+
+          {% endfor %}
+          </ul>
+        {% endif %}
+        
         
         {% if team.links %}
             <h3>Links:</h3>
@@ -52,9 +66,9 @@ layout: page
             {% for link in team.links %} 
               <li>
                 {% if link.url contains '://' -%}
-                  <a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button"> 
+                  <a href="{{ link.url }}" class="btn btn-sm z-depth-0" role="button" style="color: #013366;"> 
                 {%- else -%}
-                  <a href="{{ link.url | relative_url }}" class="btn btn-sm z-depth-0" role="button"> 
+                  <a href="{{ link.url | relative_url }}" class="btn btn-sm z-depth-0" role="button" style="color: #013366;"> 
                 {%- endif %}
                 {% if link.icon %}
                   <i class="{{ link.icon }}" 
@@ -84,11 +98,15 @@ layout: page
             <img src="{{ image.imagelink | relative_url }}" height="250" alt="{{ image.name }}">
             {% endif %}
             <br>
+            <strong>{{ image.name }}</strong>
+            <br>
+            <br>
 
             {% endfor %}
           {% endif %}
-
-
+          
+          <br>
+          <br>
         </td>
       </tr>
   {% endfor %}

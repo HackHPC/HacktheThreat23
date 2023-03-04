@@ -39,9 +39,16 @@
     image: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
-    #summary: this teams stuff
-    #description:
+    summary: Data De-Sensitizer/Anonymizer
+    description: >
+      Tasks:
+        Develop data-cleaning framework,
+        Develop system to evaluate data sensitivity (internally comparable and objectively),
+        Working proof-of-concept,
+
     emojicode: 🤠
+    #awards:
+    #    - name: 
     members:
         - name: Ricardo Carvalho
           role: Mentor
@@ -73,14 +80,25 @@
           url: https://www.youtube.com/watch?v=XcrLSSlNZGs
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
-        #- name: Intro
-        #  url: http://www.google.com
-        #  icon: "fas fa-video"
-        #  iconcolor: "#0a5cff"
+        - name: Introduction Video
+          url: https://www.youtube.com/watch?v=Bji9ezGtUhI&t=384s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
+        - name: Team Goals
+          url: assets/project/2hack-2furious/2hack2furious-TeamGoals.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
+        - name: Team Goals Video
+          url: https://www.youtube.com/watch?v=1nis-wyVkC0&t=121s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png
           url: ./assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.pdf
+        - name: Team Goals
+          imagelink: assets/project/2hack-2furious/2hack2furious-TeamGoals.png
+          url: ./assets/project/2hack-2furious/2hack2furious-TeamGoals.pdf
 
 - project:  
     teamname: Anti-Hurricane Hurricane Club
@@ -90,8 +108,19 @@
     image: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
-    #summary: this teams stuff
-    #description:
+    summary: Dashbaord for hurricane effect in Puerto Rico
+    description: >
+      Tasks:
+         Information about dataset (who, what, when, etc), 
+          Statistical description of the dataset,
+          Scientific questions we want to answer,
+          Cleaning data,
+          Exploratory analysis,
+          Dashboard design,
+          Dashboard coding
+
+    awards:
+        - name: Best Team Introduction
     emojicode: 😶‍🌫️
     members:
         - name: Dawn Hunter
@@ -124,10 +153,25 @@
           url: https://www.youtube.com/clip/Ugkx-WzUlsCdmONCgUAScbmZgRGB0VfLZfOh
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
+        - name: Introduction Video
+          url: https://www.youtube.com/watch?v=Bji9ezGtUhI&t=894s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
+        - name: Team Goals
+          url: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-TeamGoals.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"  
+        - name: Team Goals Video
+          url: https://www.youtube.com/watch?v=1nis-wyVkC0&t=796s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
           url: ./assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.pdf
+        - name: Team Goals
+          imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-TeamGoals.png
+          url: ./assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-TeamGoals.pdf
        
 - project:  
     teamname: Techniators
@@ -137,8 +181,18 @@
     image: assets/project/techniators/Techniators-TeamIntroduction.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
-    #summary: this teams stuff
-    #description:
+    summary: Create a tool/app that makes fake news detection easier
+    description: >
+      Tasks:
+        Find the data,
+        Data cleaning,
+        EDA, 
+        Feature Engineering,
+        ML Model Training,
+        App Development & Deployment 
+
+    awards:
+        - name: Best Team Goals Presentation
     emojicode: 💻
     members:
         #- name: Dawn Hunter
@@ -173,10 +227,25 @@
           url: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Late%20Night%20Radio.mp3
           icon: "fas fa-music"
           iconcolor: "black"
+        - name: Introduction Video
+          url: https://www.youtube.com/watch?v=Bji9ezGtUhI&t=641s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
+        - name: Team Goals
+          url: assets/project/techniators/techniators-TeamGoals.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black" 
+        - name: Team Goals Video
+          url: https://www.youtube.com/watch?v=1nis-wyVkC0&t=436s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/techniators/Techniators-TeamIntroduction.png
           url: ./assets/project/techniators/Techniators-TeamIntroduction.pdf
+        - name: Team Goals
+          imagelink: assets/project/techniators/techniators-TeamGoals.png
+          url: ./assets/project/techniators/techniators-TeamGoals.pdf
 
           
         
