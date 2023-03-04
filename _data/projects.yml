@@ -195,11 +195,11 @@
         - name: Best Team Goals Presentation
     emojicode: 💻
     members:
-        #- name: Dawn Hunter
-        #  role: Co-Mentor
-        #  email: dhunter@tacc.utexas.edu
-        #  affiliation: Texas Advanced Computing Center
-        #  url: https://www.tacc.utexas.edu/
+        - name: Esthela Gallardo 
+          role: Mentor
+          email: egallardo@microsoft.com
+          affiliation: Microsoft HPC
+          url: https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro
         #- name: Lydia Fletcher
         #  role: Co-Mentor
         #  email: lfletcher@tacc.utexas.edu

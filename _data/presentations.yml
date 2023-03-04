@@ -116,7 +116,6 @@
         icon: "far fa-file-pdf"
         iconcolor: "black"
       
-
 - presentation:
     title: "Friday Morning Checkin"
     #event: Hack the Threat 23 event overview
@@ -152,7 +151,6 @@
         url: Team-Introduction-Slides.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
-
 
 - presentation:
     title: "Friday Afternoon Checkin"
@@ -203,6 +201,12 @@
         url: https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      - name: Team Sitreps
+        url: SaturdayMorning-Team-Sitrep.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+        
+
       
 
 - presentation:
