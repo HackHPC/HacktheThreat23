@@ -90,12 +90,12 @@ layout: page
             {% for image in team.images %}
             {% if image.url %}
               {% if image.url contains '://' -%}
-                <a href="{{ image.url }}"><img src="{{ image.imagelink | relative_url }}" width="250" alt="{{ image.name }}"></a> 
+                <a href="{{ image.url }}"><img src="{{ image.imagelink | relative_url }}" width="250" alt="{{ image.name }}" style="border: 2px solid black;"></a> 
               {%- else -%}
-                <a href="{{ image.url | relative_url }}"><img src="{{ image.imagelink | relative_url }}" width="250" alt="{{ image.name }}"></a> 
+                <a href="{{ image.url | relative_url }}"><img src="{{ image.imagelink | relative_url }}" width="250" alt="{{ image.name }}" style="border: 2px solid black;"></a> 
               {%- endif %}
             {% else %}
-            <img src="{{ image.imagelink | relative_url }}" height="250" alt="{{ image.name }}">
+            <img src="{{ image.imagelink | relative_url }}" height="250" alt="{{ image.name }}" style="border: 2px solid black;">
             {% endif %}
             <br>
             <strong>{{ image.name }}</strong>
