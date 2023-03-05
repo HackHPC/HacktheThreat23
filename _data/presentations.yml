@@ -315,6 +315,11 @@
         url: https://youtube.com/live/RUwkbSynEA8?feature=share
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
+      - name: Viewer's Choice Ballot
+        url: https://forms.gle/ZyLcVnMDbihmfFEV9
+        icon: "fas fa-person-booth"
+        iconcolor: "green"
+
       
         
         
