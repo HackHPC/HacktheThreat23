@@ -59,6 +59,10 @@ social:
   facebook:
   instagram:
 awards: # Remove for hiding the awards section
+  - "[Mini-Award] Team Introduction"
+  - "[Mini-Award] Team Goals Presentation"
+  - "[Mini-Award] 1-Day Progress Presentation"
+  - "[Mini-Award] Mentor Team Trailer"
   - "Judges Choice"
   - "Viewer's Choice"
   - "Impact Award"
