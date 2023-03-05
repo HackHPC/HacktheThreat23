@@ -236,8 +236,7 @@
     #event: Hack the Threat 23 event overview
     date: 03/04/2023
     duration: "1.5 hrs"
-    comment: >
-      _Project 1-Day Progress (5 mins or less)_<br>
+    #comment: 
     #slides: https://www.google.com # potential link to slides.
     #hub: example-hub # potential hub page to link to
     #recording: https://www.youtube.com
@@ -248,10 +247,7 @@
         url: https://sfu.zoom.us/j/81656743536?pwd=dkM2Zk51NlRBc0sxNHBHejV1WDRTUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
-      - name: One-Day Progress
-        url: https://docs.google.com/presentation/d/1BHei1DKs3-TXBOkutx8UfPqagw0bNe-KlXnhwgiEHEw/edit?usp=sharing
-        icon: "fab fa-google-drive"
-        iconcolor: "black"
+      
 
 - presentation:
     title: "Sunday Morning Checkin"
@@ -259,7 +255,7 @@
     date: 03/05/2023
     duration: "1 hr"
     comment: >
-      _Project Status and Tasking (1-slide/1-minute)_<br>
+      _Project 1-Day Progress (5 mins or less)_<br>
     #slides: https://www.google.com # potential link to slides
     #hub: example-hub # potential hub page to link to
     #recording: https://www.youtube.com
@@ -270,6 +266,10 @@
         url: https://sfu.zoom.us/j/83093286322?pwd=TW5va3BjK1UwdXFCdEpyTFV3aWhYUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      - name: One-Day Progress
+        url: https://docs.google.com/presentation/d/1BHei1DKs3-TXBOkutx8UfPqagw0bNe-KlXnhwgiEHEw/edit?usp=sharing
+        icon: "fab fa-google-drive"
+        iconcolor: "black"
 
 - presentation:
     title: "Monday Morning Checkin"
@@ -311,3 +311,10 @@
         url: https://sfu.zoom.us/j/84496033817?pwd=MWNlSTFHN05VaGtHMi9oNUNuTkxsUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      - name: Final Presentations Stream
+        url: https://youtube.com/live/RUwkbSynEA8?feature=share
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
+      
+        
+        
