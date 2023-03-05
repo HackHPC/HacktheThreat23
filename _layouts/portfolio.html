@@ -38,6 +38,14 @@ layout: page
       <!--
       <img src="{{ site.baseurl }}/assets/img/event-images/hackthethreat23-kickoffpicure-500px.png"  alt="Kick-off Picture" width="90%">
         -->
+        <em>Jump To Team:</em> 
+        <br>|
+        {% for _ in site.data.projects %}
+            {% assign team = _.project %}
+          <strong><a href="{{ site.baseurl}}/teams/#{{ team.teamname }}"> {{ team.emojicode }} {{ team.teamname }}</a></strong> | 
+        {% endfor %}
+        <br>
+
      {% include imagecarousel.html %}
       
 
