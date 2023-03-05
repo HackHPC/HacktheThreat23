@@ -267,10 +267,21 @@
         url: https://sfu.zoom.us/j/83093286322?pwd=TW5va3BjK1UwdXFCdEpyTFV3aWhYUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
+      #- name: One-Day Progress
+      #  url: https://docs.google.com/presentation/d/1BHei1DKs3-TXBOkutx8UfPqagw0bNe-KlXnhwgiEHEw/edit?usp=sharing
+      #  icon: "fab fa-google-drive"
+      #  iconcolor: "black"
       - name: One-Day Progress
-        url: https://docs.google.com/presentation/d/1BHei1DKs3-TXBOkutx8UfPqagw0bNe-KlXnhwgiEHEw/edit?usp=sharing
-        icon: "fab fa-google-drive"
+        url: SundayOne-DayProgressTeamSitrep.pdf
+        icon: "far fa-file-pdf"
         iconcolor: "black"
+    carousel:
+      - posttitle: 1-Day Progress
+        posttag: Session
+        image: assets/img/event-images/SaturdayOne-DayProgressSitrep.png
+      - posttitle: Sunday Checkin
+        posttag: Session
+        image: assets/img/event-images/oneday-progress-zoom.png
 
 - presentation:
     title: "Monday Morning Checkin"
