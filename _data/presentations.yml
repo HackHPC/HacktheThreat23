@@ -319,6 +319,11 @@
         url: https://forms.gle/ZyLcVnMDbihmfFEV9
         icon: "fas fa-person-booth"
         iconcolor: "green"
+      - name: Post-Event Survey
+        url: https://docs.google.com/forms/d/13CXGP14taclcanoc_DVAjVt8Q8KX0XHSkhPSvhgooB4/viewform
+        icon: "fas fa-clipboard-check"
+        iconcolor: goldenrod
+
 
       
         
