@@ -34,12 +34,12 @@ layout: page
               {% if member.role contains "Mentor" %} 
                 <strong> [{{ member.role }}]</strong> <a href="mailto:{{ member.email | encode_email }}" target="_blank" title="Email">
                   {{ member.name }}</a> <br>
-                <em><a href="{{member.url}}" target=_blank> {{ member.affiliation }} </a></em>
+                <em><a href="{{member.url}}" target=_blank style="color: darkgrey;"> {{ member.affiliation }} </a></em>
                 <br>
               {% endif %}
               {% if member.role == "Member" %} 
                 {{ member.name }} <br>
-                <em><a href="{{member.url}}" target=_blank> {{ member.affiliation }} </a></em>
+                <em><a href="{{member.url}}" target=_blank style="color: darkgrey;"> {{ member.affiliation }} </a></em>
               
               {% endif %}
             </li>
