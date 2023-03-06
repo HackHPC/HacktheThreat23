@@ -16,12 +16,17 @@
           {% for member in project.members %}
               {% if member.role contains "Mentor" %} 
                 <em> ({{ member.role }})</em> <a href="mailto:{{ member.email | encode_email }}" target="_blank" title="Email">
-                  {{ member.name }}</a>, 
+                  {{ member.name }}</a> 
               {% endif %}
               {% if member.role == "Member" %} 
-                {{ member.name }}, 
-                <em><a href="{{member.url}}" target=_blank> {{ member.affiliation }} </a></em>
+                {{ member.name }} 
+                
               {% endif %}
+              {%- if forloop.last %}
+                  <br>
+                  {% else %}
+                  , 
+                  {% endif %}
           {% endfor %}
           
     </div>
