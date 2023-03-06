@@ -275,6 +275,10 @@
         url: SundayOne-DayProgressTeamSitrep.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
+      - name: Video Recording
+        url: https://youtu.be/PolaurUfNxY
+        icon: "fab fa-youtube"
+        iconcolor: "#ff0c05"
     carousel:
       - posttitle: 1-Day Progress
         posttag: Session
