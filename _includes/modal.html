@@ -15,11 +15,11 @@
       <strong>Members:</strong>
           {% for member in project.members %}
               {% if member.role contains "Mentor" %} 
-                <em> ({{ member.role }})</em> <a href="mailto:{{ member.email | encode_email }}" target="_blank" title="Email">
-                  {{ member.name }}</a> 
+                <em> [{{ member.role }}]</em> <a href="mailto:{{ member.email | encode_email }}" target="_blank" title="Email">
+                  {{ member.name }}</a> <a href="{{ member.url }}" target="_blank">({{ member.affinitals }})</a> 
               {% endif %}
               {% if member.role == "Member" %} 
-                {{ member.name }} 
+                {{ member.name }} <a href="{{ member.url }}" target="_blank">({{ member.affinitals }})</a>
                 
               {% endif %}
               {%- if forloop.last %}

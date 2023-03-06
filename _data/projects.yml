@@ -55,39 +55,48 @@
           role: Mentor
           email: smohapatra@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
+          affinitals: TACC
           url: https://www.tacc.utexas.edu/
         - name: Charlie Dey
           role: Co-Mentor
           email: charlie@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
+          affinitals: TACC
           url: https://www.tacc.utexas.edu/
         - name: Ricardo	Carvalho
           role: Member
           affiliation: Simon Fraser University
+          affinitals: SFU
           url: https://www.sfu.ca/
         - name: Michelle Yun
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Ziggy Cross
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Francesco Strafforello
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Kai Maurin-Jones
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/ 
         - name: Max Bodifee
           role: Member
           affiliation: Simon Fraser University
+          affinitals: SFU
           url: https://www.sfu.ca/
         - name: Seokhyun Yoon
           role: Member 
           affiliation: Simon Fraser University
+          affinitals: SFU
           url: https://www.sfu.ca/
           #email: mentor@email.me
           #affiliation: Menotor University
@@ -170,27 +179,33 @@
           role: Co-Mentor
           email: dhunter@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
+          affinitals: TACC
           url: https://www.tacc.utexas.edu/
         - name: Lydia Fletcher
           role: Co-Mentor
           email: lfletcher@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
+          affinitals: TACC
           url: https://www.tacc.utexas.edu/
         - name: Ricky Heinrich
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Tanmay Agarwal
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Waiel Tinwala
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Ashwin Babu
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/  
           #email: mentor@email.me
           #affiliation: Menotor University
@@ -270,6 +285,7 @@
           role: Mentor
           email: egallardo@microsoft.com
           affiliation: Microsoft HPC
+          affinitals: Microsoft
           url: https://azure.microsoft.com/en-us/solutions/high-performance-computing/#intro
         #- name: Lydia Fletcher
         #  role: Co-Mentor
@@ -279,22 +295,27 @@
         - name: Caesar Wong
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         #- name: Dhruvi Nishar
         #  role: Member
         #   affiliation: University of British Columbia
+        #   affinitals: UBC
         #   url: https://www.ubc.ca/
         #- name: Kelvin Wong
         #  role: Member
         #   affiliation: University of British Columbia
+        #   affinitals: UBC
         #  url: https://www.ubc.ca/
         - name: Lisa Sequeira
           role: Member
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/
         - name: Sarah Abdelazim
           role: Member 
           affiliation: University of British Columbia
+          affinitals: UBC
           url: https://www.ubc.ca/ 
           #email: mentor@email.me
           #affiliation: Menotor University
