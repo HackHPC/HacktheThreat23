@@ -139,6 +139,11 @@
           url: https://github.com/kmaurinjones/2hack2furious
           icon: "fab fa-github"
           color: black
+        - name: Team Trailer
+          tag: trailer
+          url: https://youtu.be/Y4RJQexEGIA
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
 
     images:
         - name: Team Introduction
