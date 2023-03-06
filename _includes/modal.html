@@ -33,9 +33,23 @@
     <div class="content" style="text-align: center;">
       {% for link in project.links %}       
           {% if link.tag == "themesong" %}
-            <strong><a href="{{ link.url }}" target="_blank" style="text-decoration: underline;"> {{ link.name }} </a></strong><br>
+            <strong><a href="{{ link.url }}" target="_blank" style="text-decoration: underline;"> <i class="{{ link.icon }}" 
+              {% if link.iconcolor %}
+              style="color: {{ link.iconcolor }}"
+              {% endif %}
+              ></i>  {{ link.name }} </a></strong><br>
           {% endif %}
+          {% if link.tag == "trailer" %}
+            <strong><a href="{{ link.url }}" target="_blank" style="text-decoration: underline;"> <i class="{{ link.icon }}" 
+              {% if link.iconcolor %}
+              style="color: {{ link.iconcolor }}"
+              {% endif %}
+              ></i>  {{ link.name }} </a></strong><br>
+            {% endif %}
+
         {% endfor %}
+
+      
 
       {% if project.image %}
       <a href="{{ site.baseurl }}/teams/#{{ project.teamname }}" alt="{{ project.teamname }}"><img src="{{ project.image | relative_url }}" alt="{{ project.teamname }}"></a>

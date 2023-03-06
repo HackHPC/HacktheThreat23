@@ -245,6 +245,7 @@
           icon: "fab fa-github"
           color: black 
         - name: Team Trailer
+          tag: trailer
           url: https://youtu.be/zV52rQhQLJg
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
@@ -355,6 +356,7 @@
           icon: "fab fa-github"
           color: black
         - name: Team Trailer
+          tag: trailer
           url: https://youtu.be/7P9dhlltbIo
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
