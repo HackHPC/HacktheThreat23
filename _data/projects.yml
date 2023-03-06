@@ -252,8 +252,8 @@
           role: Member
         #- name: Dhruvi
         #  role: Member
-        - name: Kelvin
-          role: Member
+        #- name: Kelvin
+        #  role: Member
         - name: Lisa
           role: Member
         - name: Sarah
