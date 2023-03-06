@@ -26,7 +26,26 @@
               {% endfor %}
               {% endif %}
             </div>
-            <div class="description">{{ project.description }}</div>
+            <div >
+              <strong>Members:</strong><br>
+              {% assign teammembers = project.members | sort: "name" %}
+              {% for member in teammembers %}
+                  {% if member.role contains "Mentor" %} 
+                    <em> ({{ member.role }})</em>
+                      {{ member.name }}
+                  {% endif %}
+                  {% if member.role == "Member" %} 
+                    {{ member.name }} 
+                  {% endif %}
+                  {%- if forloop.last %}
+                  <br>
+                  {% else %}
+                  , 
+                  {% endif %}
+
+              {% endfor %}
+
+            </div>
           </div>
           <div class="icons">
             {% if project.url %}

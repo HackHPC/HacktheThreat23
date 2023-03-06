@@ -77,6 +77,7 @@
           icon: "far fa-file-pdf"
           iconcolor: "black"
         - name: Theme Song - Side of Smooth - Morning Walk
+          tag: themesong
           url: https://www.youtube.com/watch?v=XcrLSSlNZGs
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"  
