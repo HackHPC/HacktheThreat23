@@ -96,10 +96,18 @@
           url: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
           icon: "far fa-file-pdf"
           iconcolor: "black"
-        - name: Github Repo
+        - name: Sunday Morning Sitrep
+          url: https://www.youtube.com/watch?v=PolaurUfNxY&t=454s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
+        - name: Hugging Face Space
           url: https://huggingface.co/spaces/2hack2furious/anonymizer
-          icon: "fab fa-github"
-          color: black  
+          icon: "fas fa-grin-beam"
+          color: goldenrod  
+        #- name: Github Repo
+        #  url: https://huggingface.co/spaces/2hack2furious/anonymizer
+        #  icon: "fab fa-github"
+        #  color: black
 
     images:
         - name: Team Introduction
@@ -182,6 +190,10 @@
           url: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.pdf
           icon: "far fa-file-pdf"
           iconcolor: "black"
+        - name: Sunday Morning Sitrep
+          url: https://www.youtube.com/watch?v=PolaurUfNxY&t=36s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
         - name: Github Repo
           url: https://github.com/freinric/ANTI-HURRICANE-HURRICANE-CLUB
           icon: "fab fa-github"
@@ -266,7 +278,11 @@
         - name: Saturday Morning Sitrep
           url: assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.pdf
           icon: "far fa-file-pdf"
-          iconcolor: "black" 
+          iconcolor: "black"
+        - name: Sunday Morning Sitrep
+          url: https://www.youtube.com/watch?v=PolaurUfNxY&t=1301s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05" 
         - name: Github Repo
           url: https://github.com/UBC-MDS/Techniators
           icon: "fab fa-github"
