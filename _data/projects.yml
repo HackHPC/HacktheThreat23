@@ -61,18 +61,34 @@
           email: charlie@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
           url: https://www.tacc.utexas.edu/
-        - name: Michelle
+        - name: Ricardo	Carvalho
           role: Member
-        - name: Ziggy
+          affiliation: Simon Fraser University
+          url: https://www.sfu.ca/
+        - name: Michelle Yun
           role: Member
-        - name: Francesco
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Ziggy Cross
           role: Member
-        - name: Kai
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Francesco Strafforello
+          role: Member
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Kai Maurin-Jones
+          role: Member
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/ 
+        - name: Max Bodifee
+          role: Member
+          affiliation: Simon Fraser University
+          url: https://www.sfu.ca/
+        - name: Seokhyun Yoon
           role: Member 
-        - name: Max
-          role: Member
-        - name: Seokhyun
-          role: Member 
+          affiliation: Simon Fraser University
+          url: https://www.sfu.ca/
           #email: mentor@email.me
           #affiliation: Menotor University
           #url: mentoruniversity.edu
@@ -160,14 +176,22 @@
           email: lfletcher@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
           url: https://www.tacc.utexas.edu/
-        - name: Ricky
+        - name: Ricky Heinrich
           role: Member
-        - name: Tanmay
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Tanmay Agarwal
           role: Member
-        - name: Waiel
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Waiel Tinwala
           role: Member
-        - name: Ashwin
-          role: Member  
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Ashwin Babu
+          role: Member
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/  
           #email: mentor@email.me
           #affiliation: Menotor University
           #url: mentoruniversity.edu
@@ -252,16 +276,26 @@
         #  email: lfletcher@tacc.utexas.edu
         #  affiliation: Texas Advanced Computing Center
         #  url: https://www.tacc.utexas.edu/
-        - name: Caesar
+        - name: Caesar Wong
           role: Member
-        #- name: Dhruvi
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        #- name: Dhruvi Nishar
         #  role: Member
-        #- name: Kelvin
+        #   affiliation: University of British Columbia
+        #   url: https://www.ubc.ca/
+        #- name: Kelvin Wong
         #  role: Member
-        - name: Lisa
+        #   affiliation: University of British Columbia
+        #  url: https://www.ubc.ca/
+        - name: Lisa Sequeira
           role: Member
-        - name: Sarah
-          role: Member  
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/
+        - name: Sarah Abdelazim
+          role: Member 
+          affiliation: University of British Columbia
+          url: https://www.ubc.ca/ 
           #email: mentor@email.me
           #affiliation: Menotor University
           #url: mentoruniversity.edu
