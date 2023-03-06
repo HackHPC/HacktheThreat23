@@ -50,16 +50,17 @@
     #awards:
     #    - name: 
     members:
-        - name: Ricardo Carvalho
-          role: Mentor
-          email: ricardosc@gmail.com
-          affiliation: Simon Fraser University
-          url: https://www.sfu.ca/big-data.html
+        
         - name: Sasmita	Mohapatra
-          role: Co-Mentor
+          role: Mentor
           email: smohapatra@tacc.utexas.edu
           affiliation: Texas Advanced Computing Center
           url: https://www.tacc.utexas.edu/
+        - name: Ricardo Carvalho
+          role: Co-Mentor
+          email: ricardosc@gmail.com
+          affiliation: Simon Fraser University
+          url: https://www.sfu.ca/big-data.html
         - name: Michelle
           role: Member
         - name: Ziggy
@@ -67,7 +68,11 @@
         - name: Francesco
           role: Member
         - name: Kai
-          role: Member  
+          role: Member 
+        - name: Max
+          role: Member
+        - name: Seokhyun
+          role: Member 
           #email: mentor@email.me
           #affiliation: Menotor University
           #url: mentoruniversity.edu
@@ -245,8 +250,8 @@
         #  url: https://www.tacc.utexas.edu/
         - name: Caesar
           role: Member
-        - name: Dhruvi
-          role: Member
+        #- name: Dhruvi
+        #  role: Member
         - name: Kelvin
           role: Member
         - name: Lisa
