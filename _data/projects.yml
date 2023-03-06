@@ -268,7 +268,7 @@
           icon: "far fa-file-pdf"
           iconcolor: "black" 
         - name: Github Repo
-          url: https://github.com/UBC-MDS/Techniators.git
+          url: https://github.com/UBC-MDS/Techniators
           icon: "fab fa-github"
           color: black
     images:
