@@ -172,6 +172,7 @@
           icon: "far fa-file-pdf"
           iconcolor: "black"  
         - name: Theme Song - Kirin J Callinan - Big Enough
+          tag: themesong
           url: https://www.youtube.com/clip/Ugkx-WzUlsCdmONCgUAScbmZgRGB0VfLZfOh
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
@@ -261,6 +262,7 @@
           icon: "far fa-file-pdf"
           iconcolor: "black"  
         - name: Theme Song - Late night Radio
+          tag: themesong
           url: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Late%20Night%20Radio.mp3
           icon: "fas fa-music"
           iconcolor: "black"
