@@ -95,7 +95,11 @@
         - name: Saturday Morning Sitrep
           url: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
           icon: "far fa-file-pdf"
-          iconcolor: "black" 
+          iconcolor: "black"
+        - name: Github Repo
+          url: https://huggingface.co/spaces/2hack2furious/anonymizer
+          icon: "fab fa-github"
+          color: black  
 
     images:
         - name: Team Introduction
@@ -177,7 +181,11 @@
         - name: Saturday Morning Sitrep
           url: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.pdf
           icon: "far fa-file-pdf"
-          iconcolor: "black" 
+          iconcolor: "black"
+        - name: Github Repo
+          url: https://github.com/freinric/ANTI-HURRICANE-HURRICANE-CLUB
+          icon: "fab fa-github"
+          color: black 
     images:
         - name: Team Introduction
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
@@ -259,6 +267,10 @@
           url: assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.pdf
           icon: "far fa-file-pdf"
           iconcolor: "black" 
+        - name: Github Repo
+          url: https://github.com/UBC-MDS/Techniators.git
+          icon: "fab fa-github"
+          color: black
     images:
         - name: Team Introduction
           imagelink: assets/project/techniators/Techniators-TeamIntroduction.png
@@ -269,5 +281,7 @@
         - name: Saturday Morning Sitrep
           imagelink: assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.png
           url: ./assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.pdf
+        
+
           
         
