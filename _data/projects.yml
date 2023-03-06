@@ -110,10 +110,10 @@
           url: https://huggingface.co/spaces/2hack2furious/anonymizer
           icon: "fas fa-grin-beam"
           color: goldenrod  
-        #- name: Github Repo
-        #  url: https://huggingface.co/spaces/2hack2furious/anonymizer
-        #  icon: "fab fa-github"
-        #  color: black
+        - name: Github Repo
+          url: https://github.com/kmaurinjones/2hack2furious
+          icon: "fab fa-github"
+          color: black
 
     images:
         - name: Team Introduction
