@@ -134,7 +134,7 @@
     image: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
-    summary: Dashbaord for hurricane effect in Puerto Rico
+    summary: Dashboard for hurricane effect in Puerto Rico
     description: >
       Tasks:
          Information about dataset (who, what, when, etc), 
@@ -205,6 +205,10 @@
           url: https://github.com/freinric/ANTI-HURRICANE-HURRICANE-CLUB
           icon: "fab fa-github"
           color: black 
+        - name: Team Trailer
+          url: https://youtu.be/zV52rQhQLJg
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
@@ -295,6 +299,10 @@
           url: https://github.com/UBC-MDS/Techniators
           icon: "fab fa-github"
           color: black
+        - name: Team Trailer
+          url: https://youtu.be/7P9dhlltbIo
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/techniators/Techniators-TeamIntroduction.png
