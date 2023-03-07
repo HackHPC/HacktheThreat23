@@ -140,6 +140,7 @@
           url: https://github.com/kmaurinjones/2hack2furious
           icon: "fab fa-github"
           color: black
+          tag: github
         - name: Team Trailer
           tag: trailer
           url: https://youtu.be/Y4RJQexEGIA
@@ -260,7 +261,8 @@
         - name: Github Repo
           url: https://github.com/freinric/ANTI-HURRICANE-HURRICANE-CLUB
           icon: "fab fa-github"
-          color: black 
+          color: black
+          tag: github 
         - name: Team Trailer
           tag: trailer
           url: https://youtu.be/zV52rQhQLJg
@@ -384,6 +386,7 @@
           url: https://github.com/UBC-MDS/Techniators
           icon: "fab fa-github"
           color: black
+          tag: github
         - name: Team Trailer
           tag: trailer
           url: https://youtu.be/7P9dhlltbIo
