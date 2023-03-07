@@ -166,9 +166,6 @@
       - posttitle: Team Introductions
         posttag: Session
         image: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
-      - posttitle: Teams
-        posttag: Session
-        image: assets/img/event-images/team-introductions-500px.png
 
 - presentation:
     title: "Friday Afternoon Checkin"
@@ -227,10 +224,7 @@
         url: SaturdayMorning-Team-Sitrep.pdf
         icon: "far fa-file-pdf"
         iconcolor: "black"
-        
-
-      
-
+             
 - presentation:
     title: "Saturday Afternoon Checkin"
     #event: Hack the Threat 23 event overview
@@ -248,7 +242,6 @@
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
       
-
 - presentation:
     title: "Sunday Morning Checkin"
     #event: Hack the Threat 23 event overview
@@ -343,6 +336,25 @@
         url: https://docs.google.com/forms/d/13CXGP14taclcanoc_DVAjVt8Q8KX0XHSkhPSvhgooB4/viewform
         icon: "fas fa-clipboard-check"
         iconcolor: goldenrod
+      - name: Final Presentations
+        url: Final-Presentations.pdf
+        icon: "far fa-file-pdf"
+        iconcolor: "black"
+    carousel:
+      - posttitle: Final Presentations
+        posttag: Session
+        image: assets/img/event-images/FinalPresentationsGroup.png
+      - posttitle: 🏆 Impact Award
+        posttag: Session
+        image: assets/img/event-images/AntiHurricane-fp.png
+      - posttitle: 🏆 Judges Award
+        posttag: Session
+        image: assets/img/event-images/techniators-fp.png
+      - posttitle: 🏆 Viewer's Choice
+        posttag: Session
+        image: assets/img/event-images/2Hack-fp.png
+
+
 
 
       
