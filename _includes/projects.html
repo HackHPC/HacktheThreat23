@@ -15,7 +15,7 @@
           <div class="text-wrap {% if project.image %}{% endif %}">
             <div class="title-wrap">
               <p class="date">{{ project.date }}</p>
-              <div class="title">{{ project.teamname }}</div>
+              <div ><h3 style="color: #ae122a;">{{ project.emojicode}} {{ project.teamname }}</h3></div>
             </div>
             <div class="meta">
               {% if project.skills %}
@@ -26,7 +26,7 @@
               {% endif %}
             </div>
             <div >
-              <strong>Members:</strong><br>
+              <h5 style="color: #ae122a;">Members:</h5>
               {% assign teammembers = project.members | sort: "name" %}
               {% for member in teammembers %}
                   {% if member.role contains "Mentor" %} 
@@ -43,6 +43,16 @@
                   {% endif %}
 
               {% endfor %}
+
+              {% if project.awards %}
+              <h5 style="color: #ae122a;">Awards:</h5>  
+              <ul class="presentations-list" style="list-style-type: none; margin-left: 30px;"></ul>
+              {% for award in project.awards %} 
+              <li style="list-style-type: none; margin-left: 30px;"><strong style="color: goldenrod;">🏆 {{ award.name }}</strong></li>
+    
+              {% endfor %}
+              </ul>
+            {% endif %}
 
             </div>
           </div>

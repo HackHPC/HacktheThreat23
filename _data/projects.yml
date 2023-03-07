@@ -36,7 +36,7 @@
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  # Full URL
-    image: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png # assets/project/
+    image: assets/project/2hack-2furious/2hack2furious-2anonymitypresentation.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     summary: Data De-Sensitizer/Anonymizer
@@ -145,7 +145,14 @@
           url: https://youtu.be/Y4RJQexEGIA
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
-
+        - name: Final Presentation
+          url: assets/project/2hack-2furious/2hack2furious-2anonymitypresentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
+        - name: Final Presentations Video
+          url: https://www.youtube.com/watch?v=9zraBY5LEps&t=2122s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/2hack-2furious/2Hack-2Furious-TeamIntroduction.png
@@ -156,13 +163,16 @@
         - name: Saturday Morning Sitrep
           imagelink: assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.png
           url: ./assets/project/2hack-2furious/2hack2furious-SaturdayMorning-TeamSitrep.pdf
+        - name: Final Presentation
+          imagelink: assets/project/2hack-2furious/2hack2furious-2anonymitypresentation.png
+          url: assets/project/2hack-2furious/2hack2furious-2anonymitypresentation.pdf 
 
 - project:  
     teamname: Anti-Hurricane Hurricane Club
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  # Full URL
-    image: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png # assets/project/
+    image: assets/project/anti-hurricane-hurricane-club/AHHC-finalpresentation.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     summary: Dashboard for hurricane effect in Puerto Rico
@@ -256,6 +266,14 @@
           url: https://youtu.be/zV52rQhQLJg
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
+        - name: Final Presentation
+          url: assets/project/anti-hurricane-hurricane-club/AHHC-finalpresentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
+        - name: Final Presentations Video
+          url: https://www.youtube.com/watch?v=9zraBY5LEps&t=1225s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-Hurricane-Club-TeamIntroduction.png
@@ -266,13 +284,16 @@
         - name: Saturday Morning Sitrep
           imagelink: assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.png
           url: ./assets/project/anti-hurricane-hurricane-club/Anti-Hurricane-satMorning-TeamSitrep.pdf
+        - name: Final Presentation
+          imagelink: assets/project/anti-hurricane-hurricane-club/AHHC-finalpresentation.png
+          url: assets/project/anti-hurricane-hurricane-club/AHHC-finalpresentation.pdf
        
 - project:  
     teamname: Techniators
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url:  # Full URL
-    image: assets/project/techniators/Techniators-TeamIntroduction.png # assets/project/
+    image: assets/project/techniators/Techniators_hackthethreat23_presentation.png # assets/project/
     #date: 03/2021 &ndash; Project Teams
     #title: COMING SOON!
     summary: Create a tool/app that makes fake news detection easier
@@ -368,6 +389,14 @@
           url: https://youtu.be/7P9dhlltbIo
           icon: "fab fa-youtube"
           iconcolor: "#ff0c05"
+        - name: Final Presentation
+          url: assets/project/techniators/Techniators_hackthethreat23_presentation.pdf
+          icon: "far fa-file-pdf"
+          iconcolor: "black"
+        - name: Final Presentations Video
+          url: https://www.youtube.com/watch?v=9zraBY5LEps&t=3415s
+          icon: "fab fa-youtube"
+          iconcolor: "#ff0c05"
     images:
         - name: Team Introduction
           imagelink: assets/project/techniators/Techniators-TeamIntroduction.png
@@ -378,6 +407,9 @@
         - name: Saturday Morning Sitrep
           imagelink: assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.png
           url: ./assets/project/techniators/Techniator-SaturdayMorning-TeamSitrep.pdf
+        - name: Final Presentation
+          imagelink: assets/project/techniators/Techniators_hackthethreat23_presentation.png
+          url: assets/project/techniators/Techniators_hackthethreat23_presentation.pdf
         
 
           
