@@ -47,8 +47,9 @@
         Working proof-of-concept,
 
     emojicode: 🤠
-    #awards:
-    #    - name: 
+    awards:
+        - name: Best Mentor Trailer Award
+        - name: "Viewer's Choice Award"
     members:
         
         - name: Sasmita	Mohapatra
@@ -178,6 +179,7 @@
     awards:
         - name: Best Team Introduction
         - name: Best 1-Day Progress 
+        - name: Impact Award
     emojicode: 😶‍🌫️
     members:
         - name: Dawn Hunter
@@ -285,6 +287,7 @@
 
     awards:
         - name: Best Team Goals Presentation
+        - name: Judges Award
     emojicode: 💻 🤖
     members:
         - name: Esthela Gallardo 

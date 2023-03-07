@@ -293,6 +293,7 @@
     date: 03/06/2023
     duration: "1 hr"
     comment: >
+      🏆 Winner: <strong> 2 Hack 2 Furious </strong><br>
       &nbsp;&nbsp;&#x2022; Team Trailer Videos <br>
       &nbsp;&nbsp;&#x2022; Post Survey Opens<br>
       &nbsp;&nbsp;&#x2022; Viewer’s Choice Ballot Opens <br>
@@ -313,6 +314,9 @@
     date: 03/06/2023
     duration: "2 hr"
     comment: >
+      🏆 Judges Award: <strong> Techinators </strong><br>
+      🏆 Viewer's Choice Award: <strong> 2 Hack 2 Furious </strong><br>
+      🏆 Impact Award: <strong> Anti-Hurricane Hurricane Club </strong><br>
       &nbsp;&nbsp;&#x2022; <strong>[Deliverables Due]</strong> Github Repo Link <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#x2022; PDF of Presentation Slides<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&#x2022; Source code <br>
@@ -327,8 +331,8 @@
         url: https://sfu.zoom.us/j/84496033817?pwd=MWNlSTFHN05VaGtHMi9oNUNuTkxsUT09
         icon: "fas fa-video"
         iconcolor: "#0a5cff"
-      - name: Final Presentations Stream
-        url: https://youtube.com/live/RUwkbSynEA8?feature=share
+      - name: Final Presentations
+        url: https://youtu.be/9zraBY5LEps
         icon: "fab fa-youtube"
         iconcolor: "#ff0c05"
       - name: Viewer's Choice Ballot
